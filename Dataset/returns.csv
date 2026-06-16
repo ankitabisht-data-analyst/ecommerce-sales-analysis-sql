@@ -1,0 +1,4801 @@
+return_id,order_id,return_reason
+1,3,Quality Issue
+2,6,Late Delivery
+3,13,Wrong Item
+4,27,Damaged
+5,67,Damaged
+6,74,Late Delivery
+7,76,Quality Issue
+8,78,Quality Issue
+9,86,Late Delivery
+10,95,Damaged
+11,105,Damaged
+12,106,Wrong Item
+13,108,Quality Issue
+14,112,Wrong Item
+15,116,Late Delivery
+16,121,Damaged
+17,141,Wrong Item
+18,172,Late Delivery
+19,197,Quality Issue
+20,207,Damaged
+21,214,Wrong Item
+22,228,Wrong Item
+23,236,Damaged
+24,241,Late Delivery
+25,250,Wrong Item
+26,261,Wrong Item
+27,263,Quality Issue
+28,266,Wrong Item
+29,270,Wrong Item
+30,273,Quality Issue
+31,282,Wrong Item
+32,300,Quality Issue
+33,330,Quality Issue
+34,333,Damaged
+35,344,Damaged
+36,363,Late Delivery
+37,365,Late Delivery
+38,380,Wrong Item
+39,392,Quality Issue
+40,393,Late Delivery
+41,411,Quality Issue
+42,430,Late Delivery
+43,438,Quality Issue
+44,443,Quality Issue
+45,454,Damaged
+46,477,Wrong Item
+47,481,Wrong Item
+48,487,Damaged
+49,495,Wrong Item
+50,525,Wrong Item
+51,526,Damaged
+52,529,Damaged
+53,555,Damaged
+54,566,Damaged
+55,567,Late Delivery
+56,569,Quality Issue
+57,573,Wrong Item
+58,589,Late Delivery
+59,608,Damaged
+60,613,Quality Issue
+61,623,Quality Issue
+62,634,Wrong Item
+63,652,Late Delivery
+64,654,Damaged
+65,656,Wrong Item
+66,663,Quality Issue
+67,677,Wrong Item
+68,681,Quality Issue
+69,702,Wrong Item
+70,715,Late Delivery
+71,721,Quality Issue
+72,732,Wrong Item
+73,742,Quality Issue
+74,759,Quality Issue
+75,764,Late Delivery
+76,790,Quality Issue
+77,804,Quality Issue
+78,817,Quality Issue
+79,821,Damaged
+80,839,Wrong Item
+81,910,Damaged
+82,919,Late Delivery
+83,933,Damaged
+84,934,Damaged
+85,942,Late Delivery
+86,962,Wrong Item
+87,972,Late Delivery
+88,1001,Late Delivery
+89,1007,Late Delivery
+90,1015,Late Delivery
+91,1018,Wrong Item
+92,1039,Late Delivery
+93,1042,Late Delivery
+94,1048,Quality Issue
+95,1056,Wrong Item
+96,1068,Wrong Item
+97,1072,Late Delivery
+98,1085,Wrong Item
+99,1097,Wrong Item
+100,1102,Damaged
+101,1114,Quality Issue
+102,1131,Quality Issue
+103,1140,Wrong Item
+104,1153,Damaged
+105,1155,Quality Issue
+106,1158,Wrong Item
+107,1165,Quality Issue
+108,1214,Wrong Item
+109,1226,Late Delivery
+110,1230,Quality Issue
+111,1256,Late Delivery
+112,1264,Damaged
+113,1275,Late Delivery
+114,1277,Damaged
+115,1289,Quality Issue
+116,1291,Wrong Item
+117,1314,Wrong Item
+118,1316,Late Delivery
+119,1324,Quality Issue
+120,1393,Damaged
+121,1400,Late Delivery
+122,1408,Damaged
+123,1414,Quality Issue
+124,1419,Late Delivery
+125,1425,Late Delivery
+126,1452,Late Delivery
+127,1490,Late Delivery
+128,1493,Wrong Item
+129,1499,Damaged
+130,1512,Wrong Item
+131,1515,Wrong Item
+132,1528,Damaged
+133,1553,Wrong Item
+134,1574,Late Delivery
+135,1577,Quality Issue
+136,1579,Damaged
+137,1582,Wrong Item
+138,1587,Damaged
+139,1614,Damaged
+140,1650,Wrong Item
+141,1683,Damaged
+142,1685,Late Delivery
+143,1692,Quality Issue
+144,1696,Wrong Item
+145,1701,Quality Issue
+146,1704,Wrong Item
+147,1725,Quality Issue
+148,1728,Damaged
+149,1732,Quality Issue
+150,1756,Late Delivery
+151,1757,Damaged
+152,1779,Wrong Item
+153,1780,Quality Issue
+154,1787,Quality Issue
+155,1795,Late Delivery
+156,1851,Damaged
+157,1855,Wrong Item
+158,1856,Late Delivery
+159,1863,Late Delivery
+160,1874,Quality Issue
+161,1880,Damaged
+162,1889,Damaged
+163,1900,Quality Issue
+164,1901,Damaged
+165,1903,Quality Issue
+166,1904,Wrong Item
+167,1919,Quality Issue
+168,1928,Late Delivery
+169,1939,Late Delivery
+170,1949,Damaged
+171,1955,Late Delivery
+172,1969,Late Delivery
+173,1983,Quality Issue
+174,1999,Wrong Item
+175,2004,Late Delivery
+176,2014,Late Delivery
+177,2022,Late Delivery
+178,2096,Damaged
+179,2100,Late Delivery
+180,2105,Quality Issue
+181,2117,Damaged
+182,2137,Damaged
+183,2148,Quality Issue
+184,2182,Quality Issue
+185,2202,Late Delivery
+186,2220,Damaged
+187,2224,Damaged
+188,2235,Damaged
+189,2267,Wrong Item
+190,2281,Damaged
+191,2304,Wrong Item
+192,2307,Quality Issue
+193,2316,Quality Issue
+194,2319,Late Delivery
+195,2332,Wrong Item
+196,2346,Late Delivery
+197,2351,Quality Issue
+198,2368,Quality Issue
+199,2394,Wrong Item
+200,2408,Wrong Item
+201,2420,Wrong Item
+202,2422,Quality Issue
+203,2433,Quality Issue
+204,2435,Wrong Item
+205,2442,Wrong Item
+206,2473,Wrong Item
+207,2496,Wrong Item
+208,2498,Wrong Item
+209,2510,Wrong Item
+210,2511,Wrong Item
+211,2512,Late Delivery
+212,2538,Wrong Item
+213,2541,Quality Issue
+214,2550,Damaged
+215,2552,Quality Issue
+216,2560,Damaged
+217,2567,Wrong Item
+218,2582,Late Delivery
+219,2592,Damaged
+220,2595,Damaged
+221,2606,Wrong Item
+222,2613,Late Delivery
+223,2628,Quality Issue
+224,2631,Quality Issue
+225,2652,Damaged
+226,2655,Damaged
+227,2667,Quality Issue
+228,2681,Quality Issue
+229,2683,Wrong Item
+230,2698,Quality Issue
+231,2700,Wrong Item
+232,2718,Damaged
+233,2730,Damaged
+234,2738,Quality Issue
+235,2758,Wrong Item
+236,2770,Wrong Item
+237,2820,Wrong Item
+238,2847,Late Delivery
+239,2861,Quality Issue
+240,2874,Quality Issue
+241,2899,Quality Issue
+242,2901,Wrong Item
+243,2920,Wrong Item
+244,2930,Wrong Item
+245,2945,Wrong Item
+246,2965,Wrong Item
+247,2971,Quality Issue
+248,2982,Damaged
+249,2989,Wrong Item
+250,3014,Late Delivery
+251,3017,Quality Issue
+252,3034,Late Delivery
+253,3037,Wrong Item
+254,3043,Damaged
+255,3087,Damaged
+256,3088,Late Delivery
+257,3089,Damaged
+258,3098,Damaged
+259,3100,Quality Issue
+260,3101,Wrong Item
+261,3103,Quality Issue
+262,3118,Quality Issue
+263,3129,Damaged
+264,3141,Wrong Item
+265,3151,Quality Issue
+266,3152,Late Delivery
+267,3161,Late Delivery
+268,3194,Quality Issue
+269,3195,Damaged
+270,3197,Late Delivery
+271,3202,Late Delivery
+272,3211,Quality Issue
+273,3223,Damaged
+274,3247,Wrong Item
+275,3248,Wrong Item
+276,3267,Late Delivery
+277,3286,Wrong Item
+278,3342,Late Delivery
+279,3344,Wrong Item
+280,3365,Damaged
+281,3384,Wrong Item
+282,3397,Wrong Item
+283,3400,Late Delivery
+284,3403,Quality Issue
+285,3405,Quality Issue
+286,3406,Wrong Item
+287,3417,Late Delivery
+288,3427,Wrong Item
+289,3458,Wrong Item
+290,3460,Late Delivery
+291,3464,Late Delivery
+292,3493,Quality Issue
+293,3504,Wrong Item
+294,3523,Damaged
+295,3579,Wrong Item
+296,3590,Quality Issue
+297,3605,Wrong Item
+298,3637,Damaged
+299,3643,Damaged
+300,3656,Damaged
+301,3667,Quality Issue
+302,3671,Quality Issue
+303,3673,Late Delivery
+304,3704,Late Delivery
+305,3709,Quality Issue
+306,3729,Quality Issue
+307,3744,Damaged
+308,3750,Late Delivery
+309,3754,Wrong Item
+310,3790,Wrong Item
+311,3805,Late Delivery
+312,3807,Late Delivery
+313,3810,Damaged
+314,3823,Wrong Item
+315,3850,Damaged
+316,3867,Quality Issue
+317,3894,Quality Issue
+318,3898,Wrong Item
+319,3907,Damaged
+320,3908,Damaged
+321,3909,Quality Issue
+322,3924,Late Delivery
+323,3934,Late Delivery
+324,3941,Damaged
+325,3953,Quality Issue
+326,3958,Damaged
+327,3963,Late Delivery
+328,3969,Quality Issue
+329,3978,Late Delivery
+330,3991,Wrong Item
+331,4000,Damaged
+332,4022,Late Delivery
+333,4029,Damaged
+334,4031,Quality Issue
+335,4040,Wrong Item
+336,4046,Wrong Item
+337,4048,Wrong Item
+338,4052,Late Delivery
+339,4054,Late Delivery
+340,4059,Wrong Item
+341,4061,Wrong Item
+342,4063,Wrong Item
+343,4078,Damaged
+344,4087,Quality Issue
+345,4093,Damaged
+346,4106,Late Delivery
+347,4128,Damaged
+348,4138,Damaged
+349,4140,Damaged
+350,4170,Late Delivery
+351,4176,Damaged
+352,4179,Late Delivery
+353,4204,Quality Issue
+354,4259,Late Delivery
+355,4264,Quality Issue
+356,4271,Quality Issue
+357,4272,Wrong Item
+358,4284,Late Delivery
+359,4313,Wrong Item
+360,4314,Quality Issue
+361,4334,Damaged
+362,4344,Damaged
+363,4345,Damaged
+364,4354,Quality Issue
+365,4367,Late Delivery
+366,4369,Damaged
+367,4377,Damaged
+368,4393,Quality Issue
+369,4401,Wrong Item
+370,4420,Quality Issue
+371,4432,Damaged
+372,4450,Wrong Item
+373,4466,Quality Issue
+374,4472,Wrong Item
+375,4473,Late Delivery
+376,4496,Damaged
+377,4497,Late Delivery
+378,4509,Damaged
+379,4530,Wrong Item
+380,4531,Damaged
+381,4532,Late Delivery
+382,4536,Quality Issue
+383,4547,Quality Issue
+384,4576,Damaged
+385,4613,Damaged
+386,4614,Wrong Item
+387,4642,Quality Issue
+388,4644,Damaged
+389,4652,Damaged
+390,4654,Wrong Item
+391,4688,Wrong Item
+392,4697,Wrong Item
+393,4698,Quality Issue
+394,4716,Late Delivery
+395,4719,Damaged
+396,4738,Damaged
+397,4739,Late Delivery
+398,4749,Damaged
+399,4765,Damaged
+400,4792,Quality Issue
+401,4796,Quality Issue
+402,4818,Quality Issue
+403,4836,Late Delivery
+404,4842,Late Delivery
+405,4844,Damaged
+406,4856,Wrong Item
+407,4890,Wrong Item
+408,4916,Quality Issue
+409,4921,Wrong Item
+410,4991,Wrong Item
+411,4995,Late Delivery
+412,5004,Quality Issue
+413,5006,Wrong Item
+414,5007,Damaged
+415,5008,Wrong Item
+416,5028,Wrong Item
+417,5040,Wrong Item
+418,5046,Wrong Item
+419,5065,Wrong Item
+420,5070,Wrong Item
+421,5071,Late Delivery
+422,5091,Wrong Item
+423,5093,Damaged
+424,5107,Damaged
+425,5113,Wrong Item
+426,5127,Quality Issue
+427,5141,Quality Issue
+428,5147,Late Delivery
+429,5148,Late Delivery
+430,5149,Damaged
+431,5186,Quality Issue
+432,5196,Wrong Item
+433,5215,Wrong Item
+434,5222,Wrong Item
+435,5228,Late Delivery
+436,5235,Late Delivery
+437,5248,Damaged
+438,5256,Wrong Item
+439,5273,Quality Issue
+440,5288,Late Delivery
+441,5298,Damaged
+442,5301,Quality Issue
+443,5305,Late Delivery
+444,5308,Wrong Item
+445,5317,Damaged
+446,5326,Late Delivery
+447,5338,Late Delivery
+448,5356,Late Delivery
+449,5360,Damaged
+450,5364,Wrong Item
+451,5382,Damaged
+452,5384,Late Delivery
+453,5400,Quality Issue
+454,5401,Late Delivery
+455,5408,Quality Issue
+456,5420,Damaged
+457,5422,Late Delivery
+458,5437,Wrong Item
+459,5447,Damaged
+460,5453,Wrong Item
+461,5473,Damaged
+462,5475,Late Delivery
+463,5495,Quality Issue
+464,5504,Damaged
+465,5505,Quality Issue
+466,5512,Wrong Item
+467,5516,Damaged
+468,5522,Quality Issue
+469,5528,Quality Issue
+470,5535,Quality Issue
+471,5572,Quality Issue
+472,5575,Quality Issue
+473,5587,Wrong Item
+474,5595,Damaged
+475,5596,Wrong Item
+476,5599,Wrong Item
+477,5609,Damaged
+478,5614,Damaged
+479,5642,Quality Issue
+480,5650,Damaged
+481,5669,Late Delivery
+482,5672,Quality Issue
+483,5674,Late Delivery
+484,5736,Quality Issue
+485,5743,Quality Issue
+486,5770,Quality Issue
+487,5777,Wrong Item
+488,5792,Quality Issue
+489,5819,Wrong Item
+490,5830,Late Delivery
+491,5832,Late Delivery
+492,5841,Quality Issue
+493,5872,Damaged
+494,5874,Quality Issue
+495,5900,Wrong Item
+496,5902,Wrong Item
+497,5910,Damaged
+498,5912,Wrong Item
+499,5958,Damaged
+500,5966,Quality Issue
+501,5976,Late Delivery
+502,5989,Quality Issue
+503,5992,Quality Issue
+504,5999,Late Delivery
+505,6015,Wrong Item
+506,6025,Damaged
+507,6059,Quality Issue
+508,6070,Damaged
+509,6083,Damaged
+510,6088,Damaged
+511,6092,Wrong Item
+512,6106,Damaged
+513,6107,Quality Issue
+514,6119,Damaged
+515,6125,Wrong Item
+516,6131,Quality Issue
+517,6146,Late Delivery
+518,6166,Quality Issue
+519,6216,Late Delivery
+520,6222,Wrong Item
+521,6223,Damaged
+522,6239,Late Delivery
+523,6245,Late Delivery
+524,6247,Quality Issue
+525,6253,Late Delivery
+526,6263,Damaged
+527,6265,Quality Issue
+528,6268,Damaged
+529,6272,Damaged
+530,6283,Late Delivery
+531,6299,Wrong Item
+532,6306,Wrong Item
+533,6321,Late Delivery
+534,6326,Quality Issue
+535,6339,Wrong Item
+536,6375,Quality Issue
+537,6389,Quality Issue
+538,6409,Damaged
+539,6411,Late Delivery
+540,6440,Quality Issue
+541,6463,Quality Issue
+542,6492,Late Delivery
+543,6501,Late Delivery
+544,6510,Damaged
+545,6514,Quality Issue
+546,6515,Damaged
+547,6539,Damaged
+548,6546,Quality Issue
+549,6556,Wrong Item
+550,6572,Late Delivery
+551,6583,Quality Issue
+552,6595,Late Delivery
+553,6598,Late Delivery
+554,6604,Wrong Item
+555,6606,Quality Issue
+556,6624,Damaged
+557,6635,Damaged
+558,6653,Wrong Item
+559,6668,Wrong Item
+560,6674,Damaged
+561,6686,Wrong Item
+562,6695,Late Delivery
+563,6698,Damaged
+564,6712,Damaged
+565,6722,Quality Issue
+566,6724,Wrong Item
+567,6736,Late Delivery
+568,6740,Late Delivery
+569,6760,Late Delivery
+570,6773,Quality Issue
+571,6775,Late Delivery
+572,6802,Quality Issue
+573,6803,Quality Issue
+574,6818,Wrong Item
+575,6835,Damaged
+576,6854,Damaged
+577,6861,Late Delivery
+578,6875,Damaged
+579,6885,Damaged
+580,6888,Late Delivery
+581,6906,Late Delivery
+582,6909,Wrong Item
+583,6933,Wrong Item
+584,6935,Wrong Item
+585,6943,Wrong Item
+586,6973,Quality Issue
+587,6974,Wrong Item
+588,7003,Late Delivery
+589,7021,Damaged
+590,7033,Quality Issue
+591,7068,Wrong Item
+592,7070,Wrong Item
+593,7071,Late Delivery
+594,7163,Damaged
+595,7166,Damaged
+596,7168,Late Delivery
+597,7171,Wrong Item
+598,7176,Wrong Item
+599,7186,Quality Issue
+600,7187,Late Delivery
+601,7217,Late Delivery
+602,7222,Wrong Item
+603,7223,Late Delivery
+604,7258,Damaged
+605,7270,Quality Issue
+606,7295,Late Delivery
+607,7310,Wrong Item
+608,7314,Late Delivery
+609,7318,Wrong Item
+610,7320,Damaged
+611,7323,Wrong Item
+612,7333,Late Delivery
+613,7344,Wrong Item
+614,7356,Late Delivery
+615,7364,Late Delivery
+616,7388,Late Delivery
+617,7393,Wrong Item
+618,7398,Damaged
+619,7403,Quality Issue
+620,7477,Late Delivery
+621,7479,Late Delivery
+622,7505,Quality Issue
+623,7518,Wrong Item
+624,7537,Late Delivery
+625,7558,Damaged
+626,7562,Wrong Item
+627,7581,Wrong Item
+628,7588,Wrong Item
+629,7607,Late Delivery
+630,7616,Wrong Item
+631,7624,Late Delivery
+632,7628,Damaged
+633,7636,Quality Issue
+634,7643,Wrong Item
+635,7645,Wrong Item
+636,7657,Quality Issue
+637,7676,Damaged
+638,7684,Wrong Item
+639,7685,Damaged
+640,7686,Quality Issue
+641,7689,Wrong Item
+642,7691,Damaged
+643,7707,Damaged
+644,7716,Quality Issue
+645,7718,Quality Issue
+646,7719,Quality Issue
+647,7724,Wrong Item
+648,7726,Quality Issue
+649,7745,Damaged
+650,7747,Quality Issue
+651,7753,Quality Issue
+652,7764,Quality Issue
+653,7773,Wrong Item
+654,7786,Quality Issue
+655,7800,Wrong Item
+656,7832,Damaged
+657,7838,Late Delivery
+658,7843,Wrong Item
+659,7847,Late Delivery
+660,7855,Late Delivery
+661,7864,Late Delivery
+662,7889,Wrong Item
+663,7890,Quality Issue
+664,7900,Damaged
+665,7902,Late Delivery
+666,7906,Damaged
+667,7943,Damaged
+668,7958,Wrong Item
+669,7989,Quality Issue
+670,7996,Wrong Item
+671,7999,Damaged
+672,8023,Quality Issue
+673,8025,Wrong Item
+674,8038,Wrong Item
+675,8040,Wrong Item
+676,8041,Damaged
+677,8043,Late Delivery
+678,8076,Quality Issue
+679,8154,Wrong Item
+680,8172,Late Delivery
+681,8183,Late Delivery
+682,8185,Late Delivery
+683,8186,Damaged
+684,8190,Late Delivery
+685,8198,Late Delivery
+686,8230,Damaged
+687,8234,Late Delivery
+688,8253,Damaged
+689,8255,Damaged
+690,8269,Quality Issue
+691,8275,Quality Issue
+692,8285,Wrong Item
+693,8314,Quality Issue
+694,8325,Quality Issue
+695,8334,Late Delivery
+696,8355,Quality Issue
+697,8360,Wrong Item
+698,8371,Wrong Item
+699,8374,Damaged
+700,8414,Damaged
+701,8415,Late Delivery
+702,8430,Late Delivery
+703,8448,Damaged
+704,8463,Damaged
+705,8465,Late Delivery
+706,8481,Damaged
+707,8499,Wrong Item
+708,8500,Quality Issue
+709,8507,Late Delivery
+710,8508,Wrong Item
+711,8534,Damaged
+712,8569,Damaged
+713,8576,Quality Issue
+714,8584,Late Delivery
+715,8591,Damaged
+716,8600,Late Delivery
+717,8608,Late Delivery
+718,8620,Late Delivery
+719,8658,Wrong Item
+720,8663,Quality Issue
+721,8667,Late Delivery
+722,8670,Quality Issue
+723,8676,Damaged
+724,8690,Late Delivery
+725,8700,Late Delivery
+726,8705,Late Delivery
+727,8720,Wrong Item
+728,8723,Wrong Item
+729,8737,Late Delivery
+730,8771,Quality Issue
+731,8777,Quality Issue
+732,8778,Wrong Item
+733,8780,Wrong Item
+734,8820,Quality Issue
+735,8837,Wrong Item
+736,8843,Quality Issue
+737,8853,Wrong Item
+738,8863,Quality Issue
+739,8879,Late Delivery
+740,8884,Late Delivery
+741,8898,Late Delivery
+742,8899,Quality Issue
+743,8912,Wrong Item
+744,8943,Late Delivery
+745,8948,Quality Issue
+746,8971,Wrong Item
+747,8997,Late Delivery
+748,9001,Quality Issue
+749,9043,Quality Issue
+750,9067,Quality Issue
+751,9084,Damaged
+752,9088,Late Delivery
+753,9120,Quality Issue
+754,9122,Quality Issue
+755,9126,Quality Issue
+756,9141,Damaged
+757,9156,Late Delivery
+758,9159,Damaged
+759,9207,Quality Issue
+760,9212,Wrong Item
+761,9218,Late Delivery
+762,9227,Wrong Item
+763,9242,Quality Issue
+764,9247,Quality Issue
+765,9281,Late Delivery
+766,9293,Quality Issue
+767,9296,Quality Issue
+768,9324,Wrong Item
+769,9337,Late Delivery
+770,9338,Quality Issue
+771,9345,Damaged
+772,9347,Late Delivery
+773,9355,Wrong Item
+774,9372,Damaged
+775,9380,Damaged
+776,9389,Quality Issue
+777,9437,Damaged
+778,9440,Wrong Item
+779,9459,Damaged
+780,9461,Quality Issue
+781,9481,Damaged
+782,9482,Wrong Item
+783,9484,Damaged
+784,9493,Wrong Item
+785,9512,Quality Issue
+786,9517,Quality Issue
+787,9518,Wrong Item
+788,9521,Damaged
+789,9524,Wrong Item
+790,9546,Late Delivery
+791,9550,Quality Issue
+792,9563,Wrong Item
+793,9591,Damaged
+794,9606,Damaged
+795,9614,Quality Issue
+796,9618,Late Delivery
+797,9622,Quality Issue
+798,9636,Wrong Item
+799,9639,Late Delivery
+800,9650,Late Delivery
+801,9659,Quality Issue
+802,9697,Late Delivery
+803,9729,Quality Issue
+804,9742,Damaged
+805,9743,Damaged
+806,9745,Wrong Item
+807,9757,Quality Issue
+808,9758,Damaged
+809,9759,Late Delivery
+810,9763,Wrong Item
+811,9775,Quality Issue
+812,9778,Quality Issue
+813,9785,Wrong Item
+814,9791,Late Delivery
+815,9796,Wrong Item
+816,9805,Quality Issue
+817,9818,Late Delivery
+818,9843,Quality Issue
+819,9848,Quality Issue
+820,9873,Late Delivery
+821,9884,Late Delivery
+822,9890,Late Delivery
+823,9896,Wrong Item
+824,9903,Damaged
+825,9909,Late Delivery
+826,9922,Late Delivery
+827,9928,Wrong Item
+828,9929,Quality Issue
+829,9933,Damaged
+830,9948,Wrong Item
+831,9964,Quality Issue
+832,9989,Late Delivery
+833,9990,Quality Issue
+834,9999,Late Delivery
+835,10015,Late Delivery
+836,10023,Wrong Item
+837,10063,Damaged
+838,10074,Quality Issue
+839,10083,Damaged
+840,10120,Late Delivery
+841,10126,Quality Issue
+842,10144,Damaged
+843,10171,Wrong Item
+844,10183,Damaged
+845,10187,Damaged
+846,10191,Quality Issue
+847,10211,Late Delivery
+848,10228,Quality Issue
+849,10233,Late Delivery
+850,10236,Damaged
+851,10256,Quality Issue
+852,10266,Late Delivery
+853,10268,Quality Issue
+854,10292,Quality Issue
+855,10298,Quality Issue
+856,10302,Damaged
+857,10304,Quality Issue
+858,10311,Quality Issue
+859,10330,Quality Issue
+860,10331,Quality Issue
+861,10367,Quality Issue
+862,10369,Quality Issue
+863,10370,Quality Issue
+864,10383,Late Delivery
+865,10394,Wrong Item
+866,10428,Late Delivery
+867,10441,Wrong Item
+868,10463,Quality Issue
+869,10497,Damaged
+870,10499,Quality Issue
+871,10500,Wrong Item
+872,10511,Quality Issue
+873,10534,Wrong Item
+874,10535,Wrong Item
+875,10536,Damaged
+876,10548,Late Delivery
+877,10556,Late Delivery
+878,10584,Damaged
+879,10589,Late Delivery
+880,10619,Damaged
+881,10631,Quality Issue
+882,10643,Damaged
+883,10650,Damaged
+884,10656,Damaged
+885,10674,Late Delivery
+886,10695,Damaged
+887,10720,Quality Issue
+888,10746,Quality Issue
+889,10751,Damaged
+890,10768,Damaged
+891,10771,Wrong Item
+892,10785,Quality Issue
+893,10791,Wrong Item
+894,10803,Wrong Item
+895,10807,Wrong Item
+896,10809,Late Delivery
+897,10813,Quality Issue
+898,10821,Wrong Item
+899,10828,Damaged
+900,10830,Damaged
+901,10834,Wrong Item
+902,10842,Damaged
+903,10869,Quality Issue
+904,10882,Late Delivery
+905,10895,Wrong Item
+906,10898,Damaged
+907,10911,Quality Issue
+908,10917,Quality Issue
+909,10939,Quality Issue
+910,10973,Wrong Item
+911,10975,Quality Issue
+912,10991,Damaged
+913,10999,Late Delivery
+914,11000,Late Delivery
+915,11011,Damaged
+916,11034,Quality Issue
+917,11053,Quality Issue
+918,11068,Wrong Item
+919,11094,Late Delivery
+920,11109,Damaged
+921,11113,Quality Issue
+922,11115,Damaged
+923,11164,Damaged
+924,11194,Wrong Item
+925,11211,Late Delivery
+926,11212,Late Delivery
+927,11271,Quality Issue
+928,11288,Wrong Item
+929,11295,Quality Issue
+930,11320,Damaged
+931,11325,Late Delivery
+932,11362,Damaged
+933,11376,Late Delivery
+934,11401,Quality Issue
+935,11403,Damaged
+936,11405,Quality Issue
+937,11428,Damaged
+938,11430,Quality Issue
+939,11440,Quality Issue
+940,11479,Late Delivery
+941,11486,Quality Issue
+942,11494,Late Delivery
+943,11540,Quality Issue
+944,11542,Late Delivery
+945,11556,Quality Issue
+946,11558,Wrong Item
+947,11590,Late Delivery
+948,11608,Wrong Item
+949,11620,Wrong Item
+950,11642,Damaged
+951,11646,Wrong Item
+952,11650,Wrong Item
+953,11671,Damaged
+954,11674,Wrong Item
+955,11680,Wrong Item
+956,11685,Damaged
+957,11698,Quality Issue
+958,11711,Late Delivery
+959,11727,Damaged
+960,11729,Wrong Item
+961,11737,Quality Issue
+962,11756,Quality Issue
+963,11772,Late Delivery
+964,11779,Damaged
+965,11794,Damaged
+966,11810,Quality Issue
+967,11817,Late Delivery
+968,11835,Wrong Item
+969,11855,Damaged
+970,11856,Late Delivery
+971,11864,Damaged
+972,11868,Quality Issue
+973,11895,Damaged
+974,11902,Late Delivery
+975,11903,Damaged
+976,11942,Damaged
+977,11962,Late Delivery
+978,11980,Quality Issue
+979,11982,Wrong Item
+980,11987,Damaged
+981,11992,Wrong Item
+982,12000,Late Delivery
+983,12021,Late Delivery
+984,12047,Quality Issue
+985,12055,Damaged
+986,12076,Wrong Item
+987,12083,Damaged
+988,12097,Wrong Item
+989,12108,Late Delivery
+990,12120,Late Delivery
+991,12123,Late Delivery
+992,12131,Quality Issue
+993,12140,Late Delivery
+994,12142,Late Delivery
+995,12176,Damaged
+996,12206,Late Delivery
+997,12232,Quality Issue
+998,12249,Wrong Item
+999,12275,Damaged
+1000,12291,Late Delivery
+1001,12322,Damaged
+1002,12325,Quality Issue
+1003,12338,Late Delivery
+1004,12345,Wrong Item
+1005,12366,Wrong Item
+1006,12379,Quality Issue
+1007,12380,Late Delivery
+1008,12386,Quality Issue
+1009,12400,Quality Issue
+1010,12435,Wrong Item
+1011,12455,Wrong Item
+1012,12478,Damaged
+1013,12536,Quality Issue
+1014,12582,Late Delivery
+1015,12590,Damaged
+1016,12620,Quality Issue
+1017,12641,Late Delivery
+1018,12644,Quality Issue
+1019,12677,Quality Issue
+1020,12687,Late Delivery
+1021,12702,Wrong Item
+1022,12714,Wrong Item
+1023,12717,Late Delivery
+1024,12722,Damaged
+1025,12730,Damaged
+1026,12764,Wrong Item
+1027,12789,Late Delivery
+1028,12793,Quality Issue
+1029,12796,Damaged
+1030,12797,Wrong Item
+1031,12803,Damaged
+1032,12814,Damaged
+1033,12823,Wrong Item
+1034,12829,Quality Issue
+1035,12875,Wrong Item
+1036,12887,Quality Issue
+1037,12908,Wrong Item
+1038,12917,Late Delivery
+1039,12928,Late Delivery
+1040,12932,Damaged
+1041,12936,Wrong Item
+1042,12954,Late Delivery
+1043,12973,Quality Issue
+1044,12986,Damaged
+1045,13008,Damaged
+1046,13018,Quality Issue
+1047,13021,Wrong Item
+1048,13043,Wrong Item
+1049,13128,Late Delivery
+1050,13135,Late Delivery
+1051,13147,Wrong Item
+1052,13156,Wrong Item
+1053,13158,Damaged
+1054,13195,Damaged
+1055,13197,Damaged
+1056,13216,Late Delivery
+1057,13230,Damaged
+1058,13250,Wrong Item
+1059,13288,Late Delivery
+1060,13292,Wrong Item
+1061,13332,Damaged
+1062,13347,Wrong Item
+1063,13351,Quality Issue
+1064,13374,Quality Issue
+1065,13391,Late Delivery
+1066,13448,Late Delivery
+1067,13453,Wrong Item
+1068,13454,Late Delivery
+1069,13457,Quality Issue
+1070,13458,Late Delivery
+1071,13471,Damaged
+1072,13476,Quality Issue
+1073,13485,Late Delivery
+1074,13493,Damaged
+1075,13495,Late Delivery
+1076,13511,Wrong Item
+1077,13529,Damaged
+1078,13534,Damaged
+1079,13535,Damaged
+1080,13554,Quality Issue
+1081,13555,Damaged
+1082,13573,Late Delivery
+1083,13574,Quality Issue
+1084,13587,Wrong Item
+1085,13595,Late Delivery
+1086,13617,Damaged
+1087,13629,Damaged
+1088,13654,Late Delivery
+1089,13665,Late Delivery
+1090,13670,Late Delivery
+1091,13671,Wrong Item
+1092,13692,Damaged
+1093,13697,Late Delivery
+1094,13700,Late Delivery
+1095,13707,Quality Issue
+1096,13711,Late Delivery
+1097,13714,Late Delivery
+1098,13742,Quality Issue
+1099,13747,Damaged
+1100,13769,Damaged
+1101,13770,Quality Issue
+1102,13771,Wrong Item
+1103,13772,Damaged
+1104,13789,Damaged
+1105,13793,Late Delivery
+1106,13795,Late Delivery
+1107,13801,Wrong Item
+1108,13806,Late Delivery
+1109,13829,Damaged
+1110,13838,Damaged
+1111,13853,Wrong Item
+1112,13868,Damaged
+1113,13900,Quality Issue
+1114,13901,Late Delivery
+1115,13907,Damaged
+1116,13915,Late Delivery
+1117,13928,Wrong Item
+1118,13938,Late Delivery
+1119,13940,Damaged
+1120,13955,Wrong Item
+1121,13989,Damaged
+1122,13992,Wrong Item
+1123,13994,Damaged
+1124,14007,Quality Issue
+1125,14041,Quality Issue
+1126,14050,Late Delivery
+1127,14058,Wrong Item
+1128,14062,Damaged
+1129,14089,Wrong Item
+1130,14102,Quality Issue
+1131,14104,Quality Issue
+1132,14111,Quality Issue
+1133,14123,Wrong Item
+1134,14127,Damaged
+1135,14151,Quality Issue
+1136,14180,Late Delivery
+1137,14188,Wrong Item
+1138,14195,Late Delivery
+1139,14204,Late Delivery
+1140,14206,Quality Issue
+1141,14234,Late Delivery
+1142,14259,Late Delivery
+1143,14273,Damaged
+1144,14278,Late Delivery
+1145,14297,Quality Issue
+1146,14321,Damaged
+1147,14328,Quality Issue
+1148,14332,Damaged
+1149,14336,Wrong Item
+1150,14354,Wrong Item
+1151,14384,Late Delivery
+1152,14396,Wrong Item
+1153,14411,Damaged
+1154,14416,Late Delivery
+1155,14467,Quality Issue
+1156,14480,Late Delivery
+1157,14485,Late Delivery
+1158,14492,Late Delivery
+1159,14500,Wrong Item
+1160,14530,Wrong Item
+1161,14535,Quality Issue
+1162,14543,Wrong Item
+1163,14561,Quality Issue
+1164,14569,Damaged
+1165,14577,Quality Issue
+1166,14579,Late Delivery
+1167,14586,Wrong Item
+1168,14610,Quality Issue
+1169,14612,Late Delivery
+1170,14618,Late Delivery
+1171,14682,Wrong Item
+1172,14688,Wrong Item
+1173,14695,Damaged
+1174,14711,Wrong Item
+1175,14725,Wrong Item
+1176,14746,Quality Issue
+1177,14748,Quality Issue
+1178,14754,Damaged
+1179,14755,Wrong Item
+1180,14762,Quality Issue
+1181,14769,Late Delivery
+1182,14779,Wrong Item
+1183,14794,Wrong Item
+1184,14808,Quality Issue
+1185,14833,Wrong Item
+1186,14860,Quality Issue
+1187,14869,Late Delivery
+1188,14877,Damaged
+1189,14903,Wrong Item
+1190,14955,Wrong Item
+1191,14967,Quality Issue
+1192,14978,Damaged
+1193,14990,Wrong Item
+1194,15002,Damaged
+1195,15061,Quality Issue
+1196,15108,Damaged
+1197,15113,Late Delivery
+1198,15137,Wrong Item
+1199,15168,Damaged
+1200,15182,Damaged
+1201,15216,Late Delivery
+1202,15220,Damaged
+1203,15230,Damaged
+1204,15237,Damaged
+1205,15238,Damaged
+1206,15267,Wrong Item
+1207,15268,Late Delivery
+1208,15279,Damaged
+1209,15290,Quality Issue
+1210,15309,Late Delivery
+1211,15313,Damaged
+1212,15333,Late Delivery
+1213,15343,Wrong Item
+1214,15344,Quality Issue
+1215,15348,Late Delivery
+1216,15358,Quality Issue
+1217,15371,Wrong Item
+1218,15482,Damaged
+1219,15483,Wrong Item
+1220,15502,Late Delivery
+1221,15505,Wrong Item
+1222,15530,Late Delivery
+1223,15576,Late Delivery
+1224,15584,Wrong Item
+1225,15605,Wrong Item
+1226,15612,Damaged
+1227,15619,Wrong Item
+1228,15636,Late Delivery
+1229,15642,Damaged
+1230,15645,Damaged
+1231,15657,Wrong Item
+1232,15677,Late Delivery
+1233,15679,Late Delivery
+1234,15688,Quality Issue
+1235,15694,Quality Issue
+1236,15696,Damaged
+1237,15705,Late Delivery
+1238,15718,Damaged
+1239,15727,Late Delivery
+1240,15741,Late Delivery
+1241,15793,Damaged
+1242,15818,Wrong Item
+1243,15826,Damaged
+1244,15841,Wrong Item
+1245,15843,Wrong Item
+1246,15844,Quality Issue
+1247,15869,Quality Issue
+1248,15871,Quality Issue
+1249,15905,Damaged
+1250,15910,Wrong Item
+1251,15912,Late Delivery
+1252,15914,Late Delivery
+1253,15920,Late Delivery
+1254,16007,Wrong Item
+1255,16013,Damaged
+1256,16056,Wrong Item
+1257,16115,Quality Issue
+1258,16124,Late Delivery
+1259,16143,Wrong Item
+1260,16159,Quality Issue
+1261,16191,Late Delivery
+1262,16196,Damaged
+1263,16208,Wrong Item
+1264,16229,Wrong Item
+1265,16231,Wrong Item
+1266,16238,Wrong Item
+1267,16246,Quality Issue
+1268,16253,Wrong Item
+1269,16262,Quality Issue
+1270,16277,Damaged
+1271,16283,Damaged
+1272,16292,Late Delivery
+1273,16294,Wrong Item
+1274,16303,Damaged
+1275,16312,Late Delivery
+1276,16334,Damaged
+1277,16349,Late Delivery
+1278,16351,Wrong Item
+1279,16357,Damaged
+1280,16361,Late Delivery
+1281,16369,Late Delivery
+1282,16400,Damaged
+1283,16405,Wrong Item
+1284,16406,Damaged
+1285,16443,Quality Issue
+1286,16454,Damaged
+1287,16474,Damaged
+1288,16480,Quality Issue
+1289,16505,Late Delivery
+1290,16528,Late Delivery
+1291,16529,Wrong Item
+1292,16543,Quality Issue
+1293,16555,Damaged
+1294,16566,Late Delivery
+1295,16568,Late Delivery
+1296,16571,Wrong Item
+1297,16579,Damaged
+1298,16583,Quality Issue
+1299,16585,Quality Issue
+1300,16588,Damaged
+1301,16596,Damaged
+1302,16617,Late Delivery
+1303,16618,Damaged
+1304,16628,Damaged
+1305,16653,Wrong Item
+1306,16663,Late Delivery
+1307,16666,Late Delivery
+1308,16673,Damaged
+1309,16684,Damaged
+1310,16704,Damaged
+1311,16742,Quality Issue
+1312,16745,Late Delivery
+1313,16760,Damaged
+1314,16790,Wrong Item
+1315,16794,Damaged
+1316,16805,Late Delivery
+1317,16806,Late Delivery
+1318,16826,Late Delivery
+1319,16838,Wrong Item
+1320,16842,Damaged
+1321,16843,Wrong Item
+1322,16855,Wrong Item
+1323,16856,Damaged
+1324,16859,Late Delivery
+1325,16867,Late Delivery
+1326,16904,Quality Issue
+1327,16941,Damaged
+1328,16950,Late Delivery
+1329,16957,Quality Issue
+1330,16964,Quality Issue
+1331,16966,Quality Issue
+1332,16969,Late Delivery
+1333,16978,Late Delivery
+1334,16980,Late Delivery
+1335,17007,Damaged
+1336,17020,Quality Issue
+1337,17025,Wrong Item
+1338,17041,Wrong Item
+1339,17047,Damaged
+1340,17059,Wrong Item
+1341,17085,Late Delivery
+1342,17093,Quality Issue
+1343,17099,Wrong Item
+1344,17101,Quality Issue
+1345,17131,Quality Issue
+1346,17166,Wrong Item
+1347,17182,Quality Issue
+1348,17184,Wrong Item
+1349,17200,Late Delivery
+1350,17223,Late Delivery
+1351,17225,Wrong Item
+1352,17245,Late Delivery
+1353,17252,Quality Issue
+1354,17262,Damaged
+1355,17284,Quality Issue
+1356,17286,Wrong Item
+1357,17295,Late Delivery
+1358,17335,Wrong Item
+1359,17370,Wrong Item
+1360,17383,Damaged
+1361,17384,Quality Issue
+1362,17387,Quality Issue
+1363,17391,Quality Issue
+1364,17411,Late Delivery
+1365,17439,Wrong Item
+1366,17448,Quality Issue
+1367,17467,Damaged
+1368,17469,Late Delivery
+1369,17477,Quality Issue
+1370,17526,Damaged
+1371,17530,Damaged
+1372,17541,Late Delivery
+1373,17555,Damaged
+1374,17587,Late Delivery
+1375,17588,Late Delivery
+1376,17616,Damaged
+1377,17640,Wrong Item
+1378,17656,Wrong Item
+1379,17703,Late Delivery
+1380,17739,Quality Issue
+1381,17755,Wrong Item
+1382,17757,Late Delivery
+1383,17769,Quality Issue
+1384,17815,Damaged
+1385,17827,Late Delivery
+1386,17831,Quality Issue
+1387,17834,Damaged
+1388,17849,Wrong Item
+1389,17853,Late Delivery
+1390,17856,Quality Issue
+1391,17882,Damaged
+1392,17884,Quality Issue
+1393,17894,Wrong Item
+1394,17900,Quality Issue
+1395,17904,Wrong Item
+1396,17950,Wrong Item
+1397,17951,Damaged
+1398,17955,Wrong Item
+1399,17959,Quality Issue
+1400,17967,Damaged
+1401,17980,Wrong Item
+1402,17995,Wrong Item
+1403,18011,Damaged
+1404,18020,Quality Issue
+1405,18026,Wrong Item
+1406,18045,Late Delivery
+1407,18058,Damaged
+1408,18064,Late Delivery
+1409,18067,Late Delivery
+1410,18097,Wrong Item
+1411,18111,Damaged
+1412,18122,Late Delivery
+1413,18123,Wrong Item
+1414,18134,Quality Issue
+1415,18137,Late Delivery
+1416,18147,Damaged
+1417,18155,Wrong Item
+1418,18157,Quality Issue
+1419,18164,Late Delivery
+1420,18200,Damaged
+1421,18204,Late Delivery
+1422,18211,Late Delivery
+1423,18212,Wrong Item
+1424,18223,Wrong Item
+1425,18233,Quality Issue
+1426,18235,Wrong Item
+1427,18264,Damaged
+1428,18271,Quality Issue
+1429,18272,Quality Issue
+1430,18286,Wrong Item
+1431,18293,Late Delivery
+1432,18297,Late Delivery
+1433,18310,Quality Issue
+1434,18312,Damaged
+1435,18313,Quality Issue
+1436,18321,Quality Issue
+1437,18328,Quality Issue
+1438,18333,Quality Issue
+1439,18337,Late Delivery
+1440,18344,Damaged
+1441,18349,Wrong Item
+1442,18384,Late Delivery
+1443,18389,Late Delivery
+1444,18390,Damaged
+1445,18391,Quality Issue
+1446,18399,Wrong Item
+1447,18417,Quality Issue
+1448,18436,Damaged
+1449,18438,Damaged
+1450,18439,Late Delivery
+1451,18459,Late Delivery
+1452,18463,Wrong Item
+1453,18470,Quality Issue
+1454,18477,Late Delivery
+1455,18499,Damaged
+1456,18509,Quality Issue
+1457,18528,Wrong Item
+1458,18540,Wrong Item
+1459,18549,Late Delivery
+1460,18567,Late Delivery
+1461,18568,Wrong Item
+1462,18576,Wrong Item
+1463,18581,Quality Issue
+1464,18594,Damaged
+1465,18610,Wrong Item
+1466,18616,Late Delivery
+1467,18640,Wrong Item
+1468,18642,Damaged
+1469,18656,Late Delivery
+1470,18666,Quality Issue
+1471,18669,Late Delivery
+1472,18671,Late Delivery
+1473,18673,Damaged
+1474,18709,Damaged
+1475,18711,Quality Issue
+1476,18712,Late Delivery
+1477,18719,Late Delivery
+1478,18740,Damaged
+1479,18744,Quality Issue
+1480,18763,Wrong Item
+1481,18769,Wrong Item
+1482,18772,Wrong Item
+1483,18779,Damaged
+1484,18781,Late Delivery
+1485,18790,Wrong Item
+1486,18798,Wrong Item
+1487,18809,Late Delivery
+1488,18821,Late Delivery
+1489,18823,Wrong Item
+1490,18845,Quality Issue
+1491,18846,Damaged
+1492,18868,Late Delivery
+1493,18869,Damaged
+1494,18890,Quality Issue
+1495,18891,Late Delivery
+1496,18939,Damaged
+1497,18942,Wrong Item
+1498,18963,Damaged
+1499,18965,Late Delivery
+1500,18973,Wrong Item
+1501,18987,Late Delivery
+1502,18990,Wrong Item
+1503,19013,Wrong Item
+1504,19024,Quality Issue
+1505,19037,Wrong Item
+1506,19050,Damaged
+1507,19074,Damaged
+1508,19085,Damaged
+1509,19087,Wrong Item
+1510,19097,Wrong Item
+1511,19120,Wrong Item
+1512,19133,Quality Issue
+1513,19142,Damaged
+1514,19166,Wrong Item
+1515,19179,Late Delivery
+1516,19191,Wrong Item
+1517,19201,Wrong Item
+1518,19229,Damaged
+1519,19245,Quality Issue
+1520,19246,Wrong Item
+1521,19269,Late Delivery
+1522,19272,Damaged
+1523,19274,Damaged
+1524,19281,Wrong Item
+1525,19300,Wrong Item
+1526,19308,Wrong Item
+1527,19316,Damaged
+1528,19329,Damaged
+1529,19333,Quality Issue
+1530,19343,Late Delivery
+1531,19364,Damaged
+1532,19404,Wrong Item
+1533,19434,Quality Issue
+1534,19438,Wrong Item
+1535,19463,Wrong Item
+1536,19484,Damaged
+1537,19487,Wrong Item
+1538,19497,Late Delivery
+1539,19510,Wrong Item
+1540,19525,Damaged
+1541,19531,Wrong Item
+1542,19533,Damaged
+1543,19544,Wrong Item
+1544,19576,Quality Issue
+1545,19588,Late Delivery
+1546,19605,Wrong Item
+1547,19650,Late Delivery
+1548,19660,Wrong Item
+1549,19675,Wrong Item
+1550,19702,Late Delivery
+1551,19709,Wrong Item
+1552,19716,Damaged
+1553,19721,Quality Issue
+1554,19736,Quality Issue
+1555,19739,Late Delivery
+1556,19746,Wrong Item
+1557,19795,Quality Issue
+1558,19828,Late Delivery
+1559,19854,Late Delivery
+1560,19864,Damaged
+1561,19869,Quality Issue
+1562,19886,Quality Issue
+1563,19907,Wrong Item
+1564,19910,Wrong Item
+1565,19915,Damaged
+1566,19921,Quality Issue
+1567,19939,Late Delivery
+1568,19947,Quality Issue
+1569,19987,Late Delivery
+1570,20010,Wrong Item
+1571,20012,Quality Issue
+1572,20030,Quality Issue
+1573,20041,Quality Issue
+1574,20060,Late Delivery
+1575,20061,Damaged
+1576,20083,Quality Issue
+1577,20094,Late Delivery
+1578,20098,Damaged
+1579,20103,Quality Issue
+1580,20104,Wrong Item
+1581,20106,Late Delivery
+1582,20108,Damaged
+1583,20160,Late Delivery
+1584,20209,Wrong Item
+1585,20241,Damaged
+1586,20245,Damaged
+1587,20263,Wrong Item
+1588,20329,Damaged
+1589,20332,Wrong Item
+1590,20333,Late Delivery
+1591,20345,Late Delivery
+1592,20351,Wrong Item
+1593,20356,Damaged
+1594,20367,Damaged
+1595,20394,Wrong Item
+1596,20397,Quality Issue
+1597,20402,Quality Issue
+1598,20406,Damaged
+1599,20418,Quality Issue
+1600,20438,Wrong Item
+1601,20443,Damaged
+1602,20447,Wrong Item
+1603,20465,Quality Issue
+1604,20475,Quality Issue
+1605,20482,Late Delivery
+1606,20501,Wrong Item
+1607,20511,Late Delivery
+1608,20527,Wrong Item
+1609,20531,Late Delivery
+1610,20533,Late Delivery
+1611,20562,Damaged
+1612,20568,Wrong Item
+1613,20591,Damaged
+1614,20604,Damaged
+1615,20614,Late Delivery
+1616,20629,Late Delivery
+1617,20630,Quality Issue
+1618,20637,Quality Issue
+1619,20640,Quality Issue
+1620,20663,Damaged
+1621,20674,Late Delivery
+1622,20678,Damaged
+1623,20683,Quality Issue
+1624,20698,Wrong Item
+1625,20702,Quality Issue
+1626,20725,Late Delivery
+1627,20731,Late Delivery
+1628,20746,Wrong Item
+1629,20748,Quality Issue
+1630,20757,Wrong Item
+1631,20768,Wrong Item
+1632,20777,Damaged
+1633,20788,Wrong Item
+1634,20800,Damaged
+1635,20803,Late Delivery
+1636,20826,Wrong Item
+1637,20836,Quality Issue
+1638,20849,Quality Issue
+1639,20868,Wrong Item
+1640,20870,Damaged
+1641,20876,Wrong Item
+1642,20917,Late Delivery
+1643,20922,Wrong Item
+1644,20923,Quality Issue
+1645,20933,Damaged
+1646,20936,Quality Issue
+1647,20965,Quality Issue
+1648,20966,Late Delivery
+1649,20982,Quality Issue
+1650,20985,Late Delivery
+1651,20996,Damaged
+1652,21001,Late Delivery
+1653,21060,Wrong Item
+1654,21071,Quality Issue
+1655,21076,Late Delivery
+1656,21085,Damaged
+1657,21101,Wrong Item
+1658,21103,Quality Issue
+1659,21104,Quality Issue
+1660,21120,Quality Issue
+1661,21129,Late Delivery
+1662,21158,Damaged
+1663,21177,Late Delivery
+1664,21184,Quality Issue
+1665,21210,Damaged
+1666,21213,Late Delivery
+1667,21217,Late Delivery
+1668,21222,Late Delivery
+1669,21224,Late Delivery
+1670,21228,Wrong Item
+1671,21231,Wrong Item
+1672,21245,Quality Issue
+1673,21246,Damaged
+1674,21257,Quality Issue
+1675,21258,Quality Issue
+1676,21262,Wrong Item
+1677,21280,Wrong Item
+1678,21286,Late Delivery
+1679,21288,Quality Issue
+1680,21336,Wrong Item
+1681,21341,Late Delivery
+1682,21354,Quality Issue
+1683,21385,Damaged
+1684,21394,Late Delivery
+1685,21395,Damaged
+1686,21436,Late Delivery
+1687,21463,Quality Issue
+1688,21478,Damaged
+1689,21492,Damaged
+1690,21525,Quality Issue
+1691,21554,Quality Issue
+1692,21569,Quality Issue
+1693,21573,Damaged
+1694,21576,Late Delivery
+1695,21613,Quality Issue
+1696,21620,Damaged
+1697,21621,Late Delivery
+1698,21640,Damaged
+1699,21648,Damaged
+1700,21688,Quality Issue
+1701,21694,Quality Issue
+1702,21702,Wrong Item
+1703,21717,Late Delivery
+1704,21718,Damaged
+1705,21743,Late Delivery
+1706,21753,Wrong Item
+1707,21756,Quality Issue
+1708,21776,Wrong Item
+1709,21783,Damaged
+1710,21790,Late Delivery
+1711,21799,Damaged
+1712,21820,Wrong Item
+1713,21831,Wrong Item
+1714,21836,Damaged
+1715,21843,Wrong Item
+1716,21844,Damaged
+1717,21853,Quality Issue
+1718,21878,Damaged
+1719,21879,Wrong Item
+1720,21882,Wrong Item
+1721,21899,Wrong Item
+1722,21907,Quality Issue
+1723,21917,Late Delivery
+1724,21920,Quality Issue
+1725,21974,Wrong Item
+1726,21981,Quality Issue
+1727,21982,Quality Issue
+1728,21995,Late Delivery
+1729,21999,Quality Issue
+1730,22003,Late Delivery
+1731,22007,Quality Issue
+1732,22013,Damaged
+1733,22015,Damaged
+1734,22016,Quality Issue
+1735,22029,Wrong Item
+1736,22054,Damaged
+1737,22062,Wrong Item
+1738,22078,Damaged
+1739,22108,Quality Issue
+1740,22110,Damaged
+1741,22116,Damaged
+1742,22119,Late Delivery
+1743,22123,Damaged
+1744,22128,Quality Issue
+1745,22129,Damaged
+1746,22138,Damaged
+1747,22158,Quality Issue
+1748,22171,Wrong Item
+1749,22174,Quality Issue
+1750,22185,Late Delivery
+1751,22195,Damaged
+1752,22222,Quality Issue
+1753,22235,Quality Issue
+1754,22250,Damaged
+1755,22265,Late Delivery
+1756,22286,Quality Issue
+1757,22306,Damaged
+1758,22316,Damaged
+1759,22330,Damaged
+1760,22350,Late Delivery
+1761,22356,Quality Issue
+1762,22360,Late Delivery
+1763,22365,Wrong Item
+1764,22368,Late Delivery
+1765,22373,Wrong Item
+1766,22385,Late Delivery
+1767,22386,Late Delivery
+1768,22396,Quality Issue
+1769,22404,Quality Issue
+1770,22411,Damaged
+1771,22412,Damaged
+1772,22433,Quality Issue
+1773,22444,Quality Issue
+1774,22452,Wrong Item
+1775,22458,Quality Issue
+1776,22465,Damaged
+1777,22472,Wrong Item
+1778,22486,Damaged
+1779,22496,Damaged
+1780,22510,Wrong Item
+1781,22513,Late Delivery
+1782,22516,Late Delivery
+1783,22520,Wrong Item
+1784,22529,Late Delivery
+1785,22541,Damaged
+1786,22545,Wrong Item
+1787,22556,Wrong Item
+1788,22565,Late Delivery
+1789,22580,Quality Issue
+1790,22594,Damaged
+1791,22595,Quality Issue
+1792,22611,Late Delivery
+1793,22630,Quality Issue
+1794,22640,Late Delivery
+1795,22662,Quality Issue
+1796,22676,Quality Issue
+1797,22705,Wrong Item
+1798,22714,Late Delivery
+1799,22719,Wrong Item
+1800,22726,Quality Issue
+1801,22735,Damaged
+1802,22736,Damaged
+1803,22747,Damaged
+1804,22800,Quality Issue
+1805,22828,Late Delivery
+1806,22855,Quality Issue
+1807,22863,Damaged
+1808,22868,Damaged
+1809,22870,Quality Issue
+1810,22871,Quality Issue
+1811,22914,Quality Issue
+1812,22918,Late Delivery
+1813,22930,Quality Issue
+1814,22936,Late Delivery
+1815,22960,Damaged
+1816,22976,Late Delivery
+1817,22982,Damaged
+1818,22995,Quality Issue
+1819,23020,Quality Issue
+1820,23027,Damaged
+1821,23048,Damaged
+1822,23057,Damaged
+1823,23079,Late Delivery
+1824,23080,Quality Issue
+1825,23099,Wrong Item
+1826,23105,Wrong Item
+1827,23121,Wrong Item
+1828,23131,Quality Issue
+1829,23135,Late Delivery
+1830,23142,Quality Issue
+1831,23161,Quality Issue
+1832,23162,Wrong Item
+1833,23198,Late Delivery
+1834,23203,Wrong Item
+1835,23214,Damaged
+1836,23229,Wrong Item
+1837,23233,Late Delivery
+1838,23265,Damaged
+1839,23276,Damaged
+1840,23279,Late Delivery
+1841,23300,Quality Issue
+1842,23302,Late Delivery
+1843,23305,Wrong Item
+1844,23317,Quality Issue
+1845,23324,Late Delivery
+1846,23326,Quality Issue
+1847,23339,Damaged
+1848,23340,Damaged
+1849,23348,Late Delivery
+1850,23382,Damaged
+1851,23390,Quality Issue
+1852,23416,Damaged
+1853,23447,Wrong Item
+1854,23455,Damaged
+1855,23460,Late Delivery
+1856,23476,Damaged
+1857,23486,Quality Issue
+1858,23507,Wrong Item
+1859,23528,Damaged
+1860,23551,Damaged
+1861,23562,Late Delivery
+1862,23563,Wrong Item
+1863,23572,Damaged
+1864,23578,Late Delivery
+1865,23583,Quality Issue
+1866,23585,Quality Issue
+1867,23639,Wrong Item
+1868,23666,Late Delivery
+1869,23677,Late Delivery
+1870,23686,Wrong Item
+1871,23694,Quality Issue
+1872,23700,Wrong Item
+1873,23703,Quality Issue
+1874,23723,Quality Issue
+1875,23734,Damaged
+1876,23742,Late Delivery
+1877,23746,Late Delivery
+1878,23749,Late Delivery
+1879,23767,Late Delivery
+1880,23770,Wrong Item
+1881,23775,Late Delivery
+1882,23785,Late Delivery
+1883,23788,Quality Issue
+1884,23809,Damaged
+1885,23814,Damaged
+1886,23837,Late Delivery
+1887,23847,Late Delivery
+1888,23882,Late Delivery
+1889,23886,Late Delivery
+1890,23894,Wrong Item
+1891,23895,Quality Issue
+1892,23897,Damaged
+1893,23912,Damaged
+1894,23913,Quality Issue
+1895,23916,Late Delivery
+1896,23918,Late Delivery
+1897,23936,Damaged
+1898,23941,Quality Issue
+1899,23953,Late Delivery
+1900,23992,Quality Issue
+1901,23993,Quality Issue
+1902,24003,Quality Issue
+1903,24008,Wrong Item
+1904,24018,Damaged
+1905,24049,Damaged
+1906,24054,Late Delivery
+1907,24073,Wrong Item
+1908,24081,Wrong Item
+1909,24099,Damaged
+1910,24101,Late Delivery
+1911,24111,Quality Issue
+1912,24123,Quality Issue
+1913,24126,Wrong Item
+1914,24152,Late Delivery
+1915,24156,Quality Issue
+1916,24161,Quality Issue
+1917,24188,Damaged
+1918,24195,Late Delivery
+1919,24213,Wrong Item
+1920,24250,Late Delivery
+1921,24280,Late Delivery
+1922,24289,Quality Issue
+1923,24296,Damaged
+1924,24299,Wrong Item
+1925,24304,Late Delivery
+1926,24325,Damaged
+1927,24336,Quality Issue
+1928,24337,Damaged
+1929,24342,Late Delivery
+1930,24343,Wrong Item
+1931,24385,Quality Issue
+1932,24390,Wrong Item
+1933,24394,Late Delivery
+1934,24396,Late Delivery
+1935,24416,Quality Issue
+1936,24423,Damaged
+1937,24456,Late Delivery
+1938,24480,Late Delivery
+1939,24481,Late Delivery
+1940,24484,Wrong Item
+1941,24507,Damaged
+1942,24534,Late Delivery
+1943,24549,Wrong Item
+1944,24553,Damaged
+1945,24598,Late Delivery
+1946,24604,Wrong Item
+1947,24623,Damaged
+1948,24624,Quality Issue
+1949,24631,Quality Issue
+1950,24639,Damaged
+1951,24649,Quality Issue
+1952,24668,Quality Issue
+1953,24681,Wrong Item
+1954,24684,Wrong Item
+1955,24692,Late Delivery
+1956,24712,Late Delivery
+1957,24722,Late Delivery
+1958,24727,Late Delivery
+1959,24731,Quality Issue
+1960,24735,Wrong Item
+1961,24758,Damaged
+1962,24777,Damaged
+1963,24796,Wrong Item
+1964,24806,Damaged
+1965,24818,Wrong Item
+1966,24826,Wrong Item
+1967,24845,Late Delivery
+1968,24850,Damaged
+1969,24856,Damaged
+1970,24860,Wrong Item
+1971,24874,Late Delivery
+1972,24892,Late Delivery
+1973,24896,Late Delivery
+1974,24904,Wrong Item
+1975,24910,Damaged
+1976,24940,Quality Issue
+1977,24953,Late Delivery
+1978,24958,Quality Issue
+1979,24969,Wrong Item
+1980,24974,Wrong Item
+1981,24981,Quality Issue
+1982,24987,Damaged
+1983,24996,Quality Issue
+1984,24998,Quality Issue
+1985,25011,Late Delivery
+1986,25015,Late Delivery
+1987,25016,Quality Issue
+1988,25020,Quality Issue
+1989,25046,Damaged
+1990,25061,Quality Issue
+1991,25062,Wrong Item
+1992,25077,Damaged
+1993,25080,Quality Issue
+1994,25083,Quality Issue
+1995,25089,Late Delivery
+1996,25112,Damaged
+1997,25170,Wrong Item
+1998,25172,Wrong Item
+1999,25198,Late Delivery
+2000,25200,Damaged
+2001,25210,Wrong Item
+2002,25226,Wrong Item
+2003,25229,Wrong Item
+2004,25232,Damaged
+2005,25235,Wrong Item
+2006,25238,Quality Issue
+2007,25253,Wrong Item
+2008,25302,Damaged
+2009,25315,Late Delivery
+2010,25341,Wrong Item
+2011,25345,Late Delivery
+2012,25359,Late Delivery
+2013,25388,Wrong Item
+2014,25428,Damaged
+2015,25433,Late Delivery
+2016,25440,Damaged
+2017,25449,Quality Issue
+2018,25480,Damaged
+2019,25502,Wrong Item
+2020,25507,Wrong Item
+2021,25511,Wrong Item
+2022,25513,Late Delivery
+2023,25522,Late Delivery
+2024,25544,Wrong Item
+2025,25561,Quality Issue
+2026,25573,Late Delivery
+2027,25577,Wrong Item
+2028,25595,Wrong Item
+2029,25598,Late Delivery
+2030,25621,Quality Issue
+2031,25651,Wrong Item
+2032,25659,Late Delivery
+2033,25677,Wrong Item
+2034,25711,Quality Issue
+2035,25722,Wrong Item
+2036,25730,Wrong Item
+2037,25731,Damaged
+2038,25738,Late Delivery
+2039,25748,Wrong Item
+2040,25766,Wrong Item
+2041,25778,Damaged
+2042,25780,Late Delivery
+2043,25782,Quality Issue
+2044,25789,Late Delivery
+2045,25796,Quality Issue
+2046,25800,Wrong Item
+2047,25801,Wrong Item
+2048,25823,Damaged
+2049,25825,Late Delivery
+2050,25831,Late Delivery
+2051,25846,Late Delivery
+2052,25858,Quality Issue
+2053,25860,Damaged
+2054,25868,Late Delivery
+2055,25871,Late Delivery
+2056,25872,Damaged
+2057,25889,Late Delivery
+2058,25905,Quality Issue
+2059,25906,Quality Issue
+2060,25911,Wrong Item
+2061,25916,Wrong Item
+2062,25924,Late Delivery
+2063,25929,Wrong Item
+2064,25941,Late Delivery
+2065,25948,Wrong Item
+2066,25960,Wrong Item
+2067,25968,Late Delivery
+2068,25969,Damaged
+2069,25979,Wrong Item
+2070,25987,Late Delivery
+2071,25990,Damaged
+2072,26019,Late Delivery
+2073,26025,Wrong Item
+2074,26038,Wrong Item
+2075,26051,Quality Issue
+2076,26055,Late Delivery
+2077,26057,Damaged
+2078,26064,Wrong Item
+2079,26094,Late Delivery
+2080,26097,Wrong Item
+2081,26119,Late Delivery
+2082,26123,Quality Issue
+2083,26147,Late Delivery
+2084,26149,Quality Issue
+2085,26169,Late Delivery
+2086,26174,Damaged
+2087,26185,Damaged
+2088,26195,Damaged
+2089,26199,Late Delivery
+2090,26203,Damaged
+2091,26204,Wrong Item
+2092,26209,Damaged
+2093,26235,Wrong Item
+2094,26239,Quality Issue
+2095,26247,Late Delivery
+2096,26258,Quality Issue
+2097,26290,Late Delivery
+2098,26299,Quality Issue
+2099,26300,Damaged
+2100,26316,Late Delivery
+2101,26334,Quality Issue
+2102,26360,Wrong Item
+2103,26381,Wrong Item
+2104,26400,Quality Issue
+2105,26403,Wrong Item
+2106,26425,Quality Issue
+2107,26447,Quality Issue
+2108,26463,Late Delivery
+2109,26465,Damaged
+2110,26472,Late Delivery
+2111,26491,Quality Issue
+2112,26509,Quality Issue
+2113,26523,Wrong Item
+2114,26526,Late Delivery
+2115,26530,Quality Issue
+2116,26536,Wrong Item
+2117,26539,Late Delivery
+2118,26552,Wrong Item
+2119,26571,Wrong Item
+2120,26574,Wrong Item
+2121,26576,Wrong Item
+2122,26581,Quality Issue
+2123,26598,Late Delivery
+2124,26609,Damaged
+2125,26611,Quality Issue
+2126,26618,Damaged
+2127,26620,Late Delivery
+2128,26630,Wrong Item
+2129,26642,Quality Issue
+2130,26660,Wrong Item
+2131,26661,Wrong Item
+2132,26664,Damaged
+2133,26677,Damaged
+2134,26691,Late Delivery
+2135,26705,Damaged
+2136,26712,Wrong Item
+2137,26720,Damaged
+2138,26722,Late Delivery
+2139,26743,Wrong Item
+2140,26761,Damaged
+2141,26786,Late Delivery
+2142,26787,Late Delivery
+2143,26796,Late Delivery
+2144,26819,Damaged
+2145,26853,Quality Issue
+2146,26880,Damaged
+2147,26903,Late Delivery
+2148,26916,Quality Issue
+2149,26943,Wrong Item
+2150,26950,Damaged
+2151,26952,Late Delivery
+2152,26970,Quality Issue
+2153,26985,Wrong Item
+2154,27013,Damaged
+2155,27014,Late Delivery
+2156,27021,Quality Issue
+2157,27036,Quality Issue
+2158,27039,Late Delivery
+2159,27052,Damaged
+2160,27069,Damaged
+2161,27076,Quality Issue
+2162,27084,Late Delivery
+2163,27095,Late Delivery
+2164,27109,Late Delivery
+2165,27117,Late Delivery
+2166,27124,Damaged
+2167,27125,Quality Issue
+2168,27128,Quality Issue
+2169,27135,Damaged
+2170,27138,Quality Issue
+2171,27153,Wrong Item
+2172,27154,Late Delivery
+2173,27159,Wrong Item
+2174,27167,Quality Issue
+2175,27195,Quality Issue
+2176,27213,Quality Issue
+2177,27232,Wrong Item
+2178,27237,Wrong Item
+2179,27248,Damaged
+2180,27274,Wrong Item
+2181,27275,Damaged
+2182,27276,Damaged
+2183,27296,Damaged
+2184,27298,Damaged
+2185,27304,Damaged
+2186,27320,Quality Issue
+2187,27322,Quality Issue
+2188,27324,Wrong Item
+2189,27332,Damaged
+2190,27335,Wrong Item
+2191,27366,Wrong Item
+2192,27373,Damaged
+2193,27378,Late Delivery
+2194,27422,Damaged
+2195,27430,Quality Issue
+2196,27444,Wrong Item
+2197,27460,Wrong Item
+2198,27465,Late Delivery
+2199,27486,Quality Issue
+2200,27497,Late Delivery
+2201,27498,Quality Issue
+2202,27514,Late Delivery
+2203,27527,Quality Issue
+2204,27550,Damaged
+2205,27556,Late Delivery
+2206,27561,Late Delivery
+2207,27564,Wrong Item
+2208,27612,Wrong Item
+2209,27620,Wrong Item
+2210,27622,Wrong Item
+2211,27636,Late Delivery
+2212,27654,Late Delivery
+2213,27660,Damaged
+2214,27662,Late Delivery
+2215,27674,Late Delivery
+2216,27690,Quality Issue
+2217,27701,Late Delivery
+2218,27710,Wrong Item
+2219,27722,Quality Issue
+2220,27730,Damaged
+2221,27753,Quality Issue
+2222,27814,Late Delivery
+2223,27829,Wrong Item
+2224,27831,Quality Issue
+2225,27832,Quality Issue
+2226,27837,Wrong Item
+2227,27864,Late Delivery
+2228,27872,Wrong Item
+2229,27873,Wrong Item
+2230,27874,Damaged
+2231,27880,Late Delivery
+2232,27921,Wrong Item
+2233,27949,Wrong Item
+2234,27955,Damaged
+2235,27974,Damaged
+2236,27986,Wrong Item
+2237,27998,Late Delivery
+2238,28023,Late Delivery
+2239,28029,Quality Issue
+2240,28031,Damaged
+2241,28046,Wrong Item
+2242,28057,Wrong Item
+2243,28058,Late Delivery
+2244,28060,Wrong Item
+2245,28074,Damaged
+2246,28093,Damaged
+2247,28094,Late Delivery
+2248,28123,Wrong Item
+2249,28129,Wrong Item
+2250,28139,Quality Issue
+2251,28148,Damaged
+2252,28160,Late Delivery
+2253,28171,Wrong Item
+2254,28173,Damaged
+2255,28177,Damaged
+2256,28179,Wrong Item
+2257,28189,Late Delivery
+2258,28194,Damaged
+2259,28197,Wrong Item
+2260,28200,Damaged
+2261,28210,Late Delivery
+2262,28214,Wrong Item
+2263,28227,Late Delivery
+2264,28245,Late Delivery
+2265,28250,Late Delivery
+2266,28266,Damaged
+2267,28278,Quality Issue
+2268,28313,Quality Issue
+2269,28316,Damaged
+2270,28350,Quality Issue
+2271,28366,Wrong Item
+2272,28370,Late Delivery
+2273,28383,Wrong Item
+2274,28392,Damaged
+2275,28395,Late Delivery
+2276,28399,Quality Issue
+2277,28401,Quality Issue
+2278,28409,Quality Issue
+2279,28414,Late Delivery
+2280,28419,Wrong Item
+2281,28420,Quality Issue
+2282,28427,Late Delivery
+2283,28446,Quality Issue
+2284,28463,Damaged
+2285,28471,Damaged
+2286,28478,Wrong Item
+2287,28507,Late Delivery
+2288,28508,Wrong Item
+2289,28520,Damaged
+2290,28537,Damaged
+2291,28544,Quality Issue
+2292,28546,Damaged
+2293,28569,Wrong Item
+2294,28582,Quality Issue
+2295,28583,Late Delivery
+2296,28589,Wrong Item
+2297,28592,Late Delivery
+2298,28594,Quality Issue
+2299,28602,Quality Issue
+2300,28617,Late Delivery
+2301,28673,Damaged
+2302,28683,Damaged
+2303,28705,Quality Issue
+2304,28720,Wrong Item
+2305,28741,Wrong Item
+2306,28742,Damaged
+2307,28744,Wrong Item
+2308,28756,Quality Issue
+2309,28773,Damaged
+2310,28782,Quality Issue
+2311,28802,Damaged
+2312,28837,Late Delivery
+2313,28846,Late Delivery
+2314,28876,Quality Issue
+2315,28877,Late Delivery
+2316,28896,Damaged
+2317,28902,Damaged
+2318,28913,Wrong Item
+2319,28914,Wrong Item
+2320,28920,Damaged
+2321,28921,Wrong Item
+2322,28939,Late Delivery
+2323,28957,Wrong Item
+2324,28958,Late Delivery
+2325,28963,Quality Issue
+2326,28970,Quality Issue
+2327,28973,Late Delivery
+2328,28974,Damaged
+2329,28982,Quality Issue
+2330,28983,Late Delivery
+2331,28990,Wrong Item
+2332,28994,Quality Issue
+2333,29005,Wrong Item
+2334,29012,Wrong Item
+2335,29014,Damaged
+2336,29023,Late Delivery
+2337,29040,Wrong Item
+2338,29052,Quality Issue
+2339,29069,Late Delivery
+2340,29077,Quality Issue
+2341,29081,Quality Issue
+2342,29098,Damaged
+2343,29102,Quality Issue
+2344,29107,Quality Issue
+2345,29136,Wrong Item
+2346,29152,Damaged
+2347,29155,Quality Issue
+2348,29158,Damaged
+2349,29166,Quality Issue
+2350,29170,Late Delivery
+2351,29176,Damaged
+2352,29187,Quality Issue
+2353,29194,Quality Issue
+2354,29196,Damaged
+2355,29224,Late Delivery
+2356,29226,Quality Issue
+2357,29242,Quality Issue
+2358,29263,Quality Issue
+2359,29269,Quality Issue
+2360,29285,Quality Issue
+2361,29291,Wrong Item
+2362,29297,Late Delivery
+2363,29321,Wrong Item
+2364,29323,Wrong Item
+2365,29383,Quality Issue
+2366,29402,Damaged
+2367,29406,Wrong Item
+2368,29411,Damaged
+2369,29428,Damaged
+2370,29436,Quality Issue
+2371,29444,Damaged
+2372,29466,Damaged
+2373,29516,Late Delivery
+2374,29524,Wrong Item
+2375,29534,Wrong Item
+2376,29564,Wrong Item
+2377,29570,Quality Issue
+2378,29622,Damaged
+2379,29681,Quality Issue
+2380,29692,Late Delivery
+2381,29707,Late Delivery
+2382,29709,Damaged
+2383,29743,Quality Issue
+2384,29751,Wrong Item
+2385,29758,Wrong Item
+2386,29769,Quality Issue
+2387,29790,Late Delivery
+2388,29795,Damaged
+2389,29803,Quality Issue
+2390,29807,Damaged
+2391,29837,Quality Issue
+2392,29844,Wrong Item
+2393,29853,Wrong Item
+2394,29862,Quality Issue
+2395,29868,Damaged
+2396,29871,Quality Issue
+2397,29872,Late Delivery
+2398,29877,Quality Issue
+2399,29891,Quality Issue
+2400,29894,Quality Issue
+2401,29909,Late Delivery
+2402,29911,Quality Issue
+2403,29922,Quality Issue
+2404,29934,Quality Issue
+2405,29961,Wrong Item
+2406,30005,Late Delivery
+2407,30013,Wrong Item
+2408,30053,Wrong Item
+2409,30057,Late Delivery
+2410,30060,Quality Issue
+2411,30064,Damaged
+2412,30084,Quality Issue
+2413,30098,Wrong Item
+2414,30106,Quality Issue
+2415,30111,Wrong Item
+2416,30112,Quality Issue
+2417,30140,Wrong Item
+2418,30158,Quality Issue
+2419,30174,Quality Issue
+2420,30178,Quality Issue
+2421,30197,Wrong Item
+2422,30205,Wrong Item
+2423,30206,Quality Issue
+2424,30220,Wrong Item
+2425,30243,Late Delivery
+2426,30276,Damaged
+2427,30282,Quality Issue
+2428,30361,Late Delivery
+2429,30381,Damaged
+2430,30405,Quality Issue
+2431,30411,Quality Issue
+2432,30443,Late Delivery
+2433,30445,Quality Issue
+2434,30450,Quality Issue
+2435,30457,Quality Issue
+2436,30458,Damaged
+2437,30462,Quality Issue
+2438,30469,Quality Issue
+2439,30471,Late Delivery
+2440,30474,Quality Issue
+2441,30481,Quality Issue
+2442,30502,Quality Issue
+2443,30504,Late Delivery
+2444,30517,Quality Issue
+2445,30518,Wrong Item
+2446,30547,Damaged
+2447,30551,Wrong Item
+2448,30566,Quality Issue
+2449,30569,Quality Issue
+2450,30575,Late Delivery
+2451,30606,Late Delivery
+2452,30618,Quality Issue
+2453,30621,Quality Issue
+2454,30660,Wrong Item
+2455,30690,Wrong Item
+2456,30696,Late Delivery
+2457,30720,Late Delivery
+2458,30723,Wrong Item
+2459,30731,Wrong Item
+2460,30756,Late Delivery
+2461,30765,Quality Issue
+2462,30785,Wrong Item
+2463,30788,Quality Issue
+2464,30801,Wrong Item
+2465,30808,Damaged
+2466,30811,Quality Issue
+2467,30814,Wrong Item
+2468,30825,Wrong Item
+2469,30836,Quality Issue
+2470,30841,Wrong Item
+2471,30872,Quality Issue
+2472,30888,Late Delivery
+2473,30893,Damaged
+2474,30896,Late Delivery
+2475,30913,Wrong Item
+2476,30914,Damaged
+2477,30960,Quality Issue
+2478,30999,Damaged
+2479,31005,Quality Issue
+2480,31017,Damaged
+2481,31019,Wrong Item
+2482,31021,Damaged
+2483,31024,Late Delivery
+2484,31026,Late Delivery
+2485,31031,Late Delivery
+2486,31047,Quality Issue
+2487,31067,Late Delivery
+2488,31074,Wrong Item
+2489,31079,Wrong Item
+2490,31099,Damaged
+2491,31105,Late Delivery
+2492,31123,Wrong Item
+2493,31125,Wrong Item
+2494,31132,Quality Issue
+2495,31138,Quality Issue
+2496,31180,Damaged
+2497,31183,Wrong Item
+2498,31212,Wrong Item
+2499,31225,Quality Issue
+2500,31233,Late Delivery
+2501,31245,Damaged
+2502,31248,Quality Issue
+2503,31262,Quality Issue
+2504,31271,Wrong Item
+2505,31282,Late Delivery
+2506,31299,Damaged
+2507,31305,Damaged
+2508,31311,Late Delivery
+2509,31385,Wrong Item
+2510,31392,Wrong Item
+2511,31394,Late Delivery
+2512,31398,Late Delivery
+2513,31408,Quality Issue
+2514,31447,Quality Issue
+2515,31464,Quality Issue
+2516,31467,Late Delivery
+2517,31476,Quality Issue
+2518,31481,Damaged
+2519,31494,Late Delivery
+2520,31509,Damaged
+2521,31520,Wrong Item
+2522,31526,Damaged
+2523,31528,Late Delivery
+2524,31531,Quality Issue
+2525,31541,Wrong Item
+2526,31544,Quality Issue
+2527,31555,Late Delivery
+2528,31557,Wrong Item
+2529,31564,Wrong Item
+2530,31582,Late Delivery
+2531,31591,Wrong Item
+2532,31596,Late Delivery
+2533,31599,Damaged
+2534,31615,Late Delivery
+2535,31623,Late Delivery
+2536,31654,Late Delivery
+2537,31661,Damaged
+2538,31667,Late Delivery
+2539,31669,Quality Issue
+2540,31677,Damaged
+2541,31685,Damaged
+2542,31692,Wrong Item
+2543,31718,Wrong Item
+2544,31730,Quality Issue
+2545,31736,Quality Issue
+2546,31748,Late Delivery
+2547,31765,Wrong Item
+2548,31774,Damaged
+2549,31781,Wrong Item
+2550,31796,Quality Issue
+2551,31800,Late Delivery
+2552,31801,Late Delivery
+2553,31813,Wrong Item
+2554,31884,Quality Issue
+2555,31919,Late Delivery
+2556,31924,Quality Issue
+2557,31935,Quality Issue
+2558,31938,Wrong Item
+2559,31955,Quality Issue
+2560,31957,Damaged
+2561,31987,Wrong Item
+2562,31991,Wrong Item
+2563,32015,Quality Issue
+2564,32016,Late Delivery
+2565,32031,Damaged
+2566,32038,Late Delivery
+2567,32050,Quality Issue
+2568,32057,Quality Issue
+2569,32060,Wrong Item
+2570,32076,Wrong Item
+2571,32101,Wrong Item
+2572,32103,Wrong Item
+2573,32157,Late Delivery
+2574,32162,Late Delivery
+2575,32163,Damaged
+2576,32165,Late Delivery
+2577,32190,Damaged
+2578,32196,Quality Issue
+2579,32201,Late Delivery
+2580,32217,Wrong Item
+2581,32218,Wrong Item
+2582,32257,Late Delivery
+2583,32292,Damaged
+2584,32306,Wrong Item
+2585,32307,Quality Issue
+2586,32329,Wrong Item
+2587,32374,Damaged
+2588,32423,Quality Issue
+2589,32424,Damaged
+2590,32430,Damaged
+2591,32438,Wrong Item
+2592,32445,Quality Issue
+2593,32454,Quality Issue
+2594,32465,Damaged
+2595,32470,Quality Issue
+2596,32475,Late Delivery
+2597,32486,Wrong Item
+2598,32492,Late Delivery
+2599,32498,Late Delivery
+2600,32516,Damaged
+2601,32547,Quality Issue
+2602,32558,Damaged
+2603,32567,Damaged
+2604,32595,Wrong Item
+2605,32600,Wrong Item
+2606,32606,Late Delivery
+2607,32615,Damaged
+2608,32666,Late Delivery
+2609,32670,Quality Issue
+2610,32680,Wrong Item
+2611,32683,Late Delivery
+2612,32720,Wrong Item
+2613,32733,Late Delivery
+2614,32735,Quality Issue
+2615,32736,Quality Issue
+2616,32739,Late Delivery
+2617,32769,Late Delivery
+2618,32780,Wrong Item
+2619,32783,Quality Issue
+2620,32854,Late Delivery
+2621,32858,Damaged
+2622,32866,Late Delivery
+2623,32877,Late Delivery
+2624,32878,Quality Issue
+2625,32901,Wrong Item
+2626,32915,Late Delivery
+2627,32961,Damaged
+2628,32962,Quality Issue
+2629,32969,Quality Issue
+2630,33021,Late Delivery
+2631,33026,Wrong Item
+2632,33027,Late Delivery
+2633,33037,Wrong Item
+2634,33087,Wrong Item
+2635,33092,Wrong Item
+2636,33111,Quality Issue
+2637,33132,Wrong Item
+2638,33140,Quality Issue
+2639,33146,Wrong Item
+2640,33153,Damaged
+2641,33155,Late Delivery
+2642,33156,Late Delivery
+2643,33168,Wrong Item
+2644,33173,Wrong Item
+2645,33176,Late Delivery
+2646,33202,Wrong Item
+2647,33211,Late Delivery
+2648,33216,Wrong Item
+2649,33218,Wrong Item
+2650,33221,Wrong Item
+2651,33231,Late Delivery
+2652,33238,Damaged
+2653,33252,Quality Issue
+2654,33263,Quality Issue
+2655,33283,Wrong Item
+2656,33287,Wrong Item
+2657,33293,Late Delivery
+2658,33308,Damaged
+2659,33318,Late Delivery
+2660,33323,Wrong Item
+2661,33346,Wrong Item
+2662,33366,Wrong Item
+2663,33392,Damaged
+2664,33411,Quality Issue
+2665,33413,Wrong Item
+2666,33417,Late Delivery
+2667,33436,Quality Issue
+2668,33457,Wrong Item
+2669,33464,Wrong Item
+2670,33504,Late Delivery
+2671,33530,Late Delivery
+2672,33537,Damaged
+2673,33557,Damaged
+2674,33567,Damaged
+2675,33571,Wrong Item
+2676,33605,Quality Issue
+2677,33620,Late Delivery
+2678,33622,Quality Issue
+2679,33625,Late Delivery
+2680,33639,Late Delivery
+2681,33660,Damaged
+2682,33688,Wrong Item
+2683,33702,Damaged
+2684,33741,Wrong Item
+2685,33758,Damaged
+2686,33761,Wrong Item
+2687,33770,Damaged
+2688,33772,Wrong Item
+2689,33774,Damaged
+2690,33778,Damaged
+2691,33779,Damaged
+2692,33801,Late Delivery
+2693,33804,Late Delivery
+2694,33811,Damaged
+2695,33834,Wrong Item
+2696,33835,Damaged
+2697,33877,Late Delivery
+2698,33882,Damaged
+2699,33886,Late Delivery
+2700,33892,Wrong Item
+2701,33935,Late Delivery
+2702,33942,Wrong Item
+2703,33949,Quality Issue
+2704,33955,Late Delivery
+2705,33961,Late Delivery
+2706,33970,Wrong Item
+2707,33995,Quality Issue
+2708,33998,Damaged
+2709,34020,Late Delivery
+2710,34029,Wrong Item
+2711,34043,Wrong Item
+2712,34056,Late Delivery
+2713,34061,Damaged
+2714,34064,Quality Issue
+2715,34065,Damaged
+2716,34072,Late Delivery
+2717,34075,Damaged
+2718,34080,Damaged
+2719,34083,Quality Issue
+2720,34086,Damaged
+2721,34091,Damaged
+2722,34095,Damaged
+2723,34098,Damaged
+2724,34099,Damaged
+2725,34105,Damaged
+2726,34112,Damaged
+2727,34118,Quality Issue
+2728,34121,Damaged
+2729,34133,Late Delivery
+2730,34143,Damaged
+2731,34155,Wrong Item
+2732,34165,Damaged
+2733,34182,Late Delivery
+2734,34184,Quality Issue
+2735,34207,Late Delivery
+2736,34209,Quality Issue
+2737,34234,Wrong Item
+2738,34239,Quality Issue
+2739,34243,Damaged
+2740,34244,Damaged
+2741,34268,Damaged
+2742,34272,Late Delivery
+2743,34281,Quality Issue
+2744,34311,Damaged
+2745,34317,Quality Issue
+2746,34320,Wrong Item
+2747,34343,Wrong Item
+2748,34346,Damaged
+2749,34368,Quality Issue
+2750,34467,Late Delivery
+2751,34479,Late Delivery
+2752,34502,Quality Issue
+2753,34507,Damaged
+2754,34512,Quality Issue
+2755,34513,Wrong Item
+2756,34546,Late Delivery
+2757,34549,Damaged
+2758,34576,Quality Issue
+2759,34599,Quality Issue
+2760,34609,Wrong Item
+2761,34620,Wrong Item
+2762,34634,Wrong Item
+2763,34637,Damaged
+2764,34642,Quality Issue
+2765,34645,Quality Issue
+2766,34659,Wrong Item
+2767,34696,Late Delivery
+2768,34701,Damaged
+2769,34703,Damaged
+2770,34718,Quality Issue
+2771,34721,Quality Issue
+2772,34735,Damaged
+2773,34737,Damaged
+2774,34746,Wrong Item
+2775,34770,Late Delivery
+2776,34788,Damaged
+2777,34806,Damaged
+2778,34821,Wrong Item
+2779,34838,Wrong Item
+2780,34839,Quality Issue
+2781,34869,Wrong Item
+2782,34873,Quality Issue
+2783,34884,Late Delivery
+2784,34903,Late Delivery
+2785,34927,Wrong Item
+2786,34930,Late Delivery
+2787,34937,Late Delivery
+2788,34939,Late Delivery
+2789,34955,Wrong Item
+2790,34961,Quality Issue
+2791,34964,Damaged
+2792,34965,Damaged
+2793,34975,Damaged
+2794,34976,Late Delivery
+2795,34981,Quality Issue
+2796,34990,Wrong Item
+2797,35002,Wrong Item
+2798,35012,Damaged
+2799,35013,Wrong Item
+2800,35015,Quality Issue
+2801,35035,Quality Issue
+2802,35053,Wrong Item
+2803,35065,Quality Issue
+2804,35084,Damaged
+2805,35090,Wrong Item
+2806,35101,Damaged
+2807,35102,Quality Issue
+2808,35105,Wrong Item
+2809,35117,Wrong Item
+2810,35132,Quality Issue
+2811,35134,Late Delivery
+2812,35135,Late Delivery
+2813,35140,Quality Issue
+2814,35153,Quality Issue
+2815,35166,Wrong Item
+2816,35190,Damaged
+2817,35194,Wrong Item
+2818,35201,Quality Issue
+2819,35213,Wrong Item
+2820,35222,Damaged
+2821,35247,Quality Issue
+2822,35252,Wrong Item
+2823,35259,Wrong Item
+2824,35273,Late Delivery
+2825,35278,Quality Issue
+2826,35281,Late Delivery
+2827,35300,Quality Issue
+2828,35304,Late Delivery
+2829,35320,Damaged
+2830,35321,Damaged
+2831,35326,Quality Issue
+2832,35334,Damaged
+2833,35345,Quality Issue
+2834,35363,Wrong Item
+2835,35371,Damaged
+2836,35385,Quality Issue
+2837,35417,Wrong Item
+2838,35423,Wrong Item
+2839,35425,Damaged
+2840,35438,Damaged
+2841,35443,Damaged
+2842,35454,Quality Issue
+2843,35459,Damaged
+2844,35465,Late Delivery
+2845,35474,Late Delivery
+2846,35485,Wrong Item
+2847,35499,Wrong Item
+2848,35503,Quality Issue
+2849,35513,Quality Issue
+2850,35515,Damaged
+2851,35518,Wrong Item
+2852,35522,Late Delivery
+2853,35531,Wrong Item
+2854,35536,Wrong Item
+2855,35552,Late Delivery
+2856,35553,Wrong Item
+2857,35558,Damaged
+2858,35579,Damaged
+2859,35588,Quality Issue
+2860,35605,Quality Issue
+2861,35610,Wrong Item
+2862,35618,Late Delivery
+2863,35624,Quality Issue
+2864,35639,Wrong Item
+2865,35649,Wrong Item
+2866,35652,Quality Issue
+2867,35672,Damaged
+2868,35681,Wrong Item
+2869,35682,Late Delivery
+2870,35702,Late Delivery
+2871,35705,Late Delivery
+2872,35706,Quality Issue
+2873,35719,Damaged
+2874,35740,Wrong Item
+2875,35750,Wrong Item
+2876,35751,Late Delivery
+2877,35756,Damaged
+2878,35772,Late Delivery
+2879,35782,Wrong Item
+2880,35792,Wrong Item
+2881,35795,Quality Issue
+2882,35805,Wrong Item
+2883,35824,Late Delivery
+2884,35842,Wrong Item
+2885,35847,Late Delivery
+2886,35861,Late Delivery
+2887,35864,Damaged
+2888,35881,Damaged
+2889,35888,Quality Issue
+2890,35921,Damaged
+2891,35929,Damaged
+2892,35943,Late Delivery
+2893,35950,Damaged
+2894,35955,Wrong Item
+2895,35958,Damaged
+2896,35979,Wrong Item
+2897,36003,Damaged
+2898,36009,Damaged
+2899,36014,Late Delivery
+2900,36017,Late Delivery
+2901,36053,Wrong Item
+2902,36058,Quality Issue
+2903,36086,Quality Issue
+2904,36099,Quality Issue
+2905,36106,Damaged
+2906,36129,Quality Issue
+2907,36137,Damaged
+2908,36176,Damaged
+2909,36190,Wrong Item
+2910,36194,Damaged
+2911,36195,Quality Issue
+2912,36208,Quality Issue
+2913,36219,Quality Issue
+2914,36232,Damaged
+2915,36234,Wrong Item
+2916,36238,Quality Issue
+2917,36243,Quality Issue
+2918,36246,Quality Issue
+2919,36304,Damaged
+2920,36305,Wrong Item
+2921,36318,Damaged
+2922,36329,Quality Issue
+2923,36335,Wrong Item
+2924,36340,Damaged
+2925,36351,Quality Issue
+2926,36353,Damaged
+2927,36354,Wrong Item
+2928,36357,Late Delivery
+2929,36358,Wrong Item
+2930,36359,Damaged
+2931,36373,Quality Issue
+2932,36376,Quality Issue
+2933,36395,Damaged
+2934,36404,Late Delivery
+2935,36414,Wrong Item
+2936,36425,Quality Issue
+2937,36439,Wrong Item
+2938,36448,Late Delivery
+2939,36465,Late Delivery
+2940,36466,Damaged
+2941,36474,Quality Issue
+2942,36489,Wrong Item
+2943,36529,Damaged
+2944,36534,Wrong Item
+2945,36579,Quality Issue
+2946,36585,Wrong Item
+2947,36586,Late Delivery
+2948,36613,Quality Issue
+2949,36634,Quality Issue
+2950,36648,Wrong Item
+2951,36667,Wrong Item
+2952,36698,Quality Issue
+2953,36708,Quality Issue
+2954,36723,Late Delivery
+2955,36724,Damaged
+2956,36733,Quality Issue
+2957,36739,Wrong Item
+2958,36741,Wrong Item
+2959,36770,Wrong Item
+2960,36772,Late Delivery
+2961,36778,Wrong Item
+2962,36788,Damaged
+2963,36793,Wrong Item
+2964,36800,Damaged
+2965,36804,Wrong Item
+2966,36815,Quality Issue
+2967,36822,Quality Issue
+2968,36827,Wrong Item
+2969,36840,Wrong Item
+2970,36842,Damaged
+2971,36857,Wrong Item
+2972,36866,Wrong Item
+2973,36873,Late Delivery
+2974,36903,Late Delivery
+2975,36904,Quality Issue
+2976,36905,Quality Issue
+2977,36907,Quality Issue
+2978,36908,Damaged
+2979,36917,Wrong Item
+2980,36921,Late Delivery
+2981,36938,Wrong Item
+2982,36946,Damaged
+2983,36948,Damaged
+2984,37012,Late Delivery
+2985,37013,Late Delivery
+2986,37024,Late Delivery
+2987,37027,Damaged
+2988,37035,Damaged
+2989,37059,Late Delivery
+2990,37062,Damaged
+2991,37068,Wrong Item
+2992,37125,Quality Issue
+2993,37143,Damaged
+2994,37159,Quality Issue
+2995,37170,Wrong Item
+2996,37183,Damaged
+2997,37188,Quality Issue
+2998,37195,Late Delivery
+2999,37227,Damaged
+3000,37243,Late Delivery
+3001,37247,Quality Issue
+3002,37263,Quality Issue
+3003,37265,Quality Issue
+3004,37286,Wrong Item
+3005,37315,Quality Issue
+3006,37321,Wrong Item
+3007,37333,Late Delivery
+3008,37391,Wrong Item
+3009,37433,Quality Issue
+3010,37453,Wrong Item
+3011,37463,Damaged
+3012,37475,Quality Issue
+3013,37481,Late Delivery
+3014,37509,Damaged
+3015,37520,Quality Issue
+3016,37538,Wrong Item
+3017,37540,Damaged
+3018,37547,Late Delivery
+3019,37560,Quality Issue
+3020,37578,Late Delivery
+3021,37586,Late Delivery
+3022,37590,Quality Issue
+3023,37595,Wrong Item
+3024,37596,Wrong Item
+3025,37606,Late Delivery
+3026,37619,Quality Issue
+3027,37621,Damaged
+3028,37623,Quality Issue
+3029,37638,Wrong Item
+3030,37653,Quality Issue
+3031,37654,Quality Issue
+3032,37723,Late Delivery
+3033,37727,Quality Issue
+3034,37730,Quality Issue
+3035,37750,Damaged
+3036,37751,Quality Issue
+3037,37760,Damaged
+3038,37772,Quality Issue
+3039,37785,Damaged
+3040,37797,Damaged
+3041,37828,Quality Issue
+3042,37829,Late Delivery
+3043,37841,Quality Issue
+3044,37846,Quality Issue
+3045,37848,Quality Issue
+3046,37879,Quality Issue
+3047,37881,Damaged
+3048,37892,Late Delivery
+3049,37929,Wrong Item
+3050,37955,Damaged
+3051,37961,Damaged
+3052,37962,Damaged
+3053,37967,Late Delivery
+3054,37982,Damaged
+3055,37985,Quality Issue
+3056,38009,Damaged
+3057,38012,Late Delivery
+3058,38019,Late Delivery
+3059,38032,Late Delivery
+3060,38043,Damaged
+3061,38080,Quality Issue
+3062,38082,Damaged
+3063,38088,Wrong Item
+3064,38099,Damaged
+3065,38101,Late Delivery
+3066,38128,Damaged
+3067,38176,Damaged
+3068,38180,Quality Issue
+3069,38187,Damaged
+3070,38189,Late Delivery
+3071,38217,Late Delivery
+3072,38218,Wrong Item
+3073,38229,Damaged
+3074,38245,Damaged
+3075,38269,Damaged
+3076,38282,Damaged
+3077,38287,Late Delivery
+3078,38292,Damaged
+3079,38294,Damaged
+3080,38296,Late Delivery
+3081,38300,Late Delivery
+3082,38310,Late Delivery
+3083,38340,Damaged
+3084,38349,Late Delivery
+3085,38371,Wrong Item
+3086,38375,Damaged
+3087,38402,Damaged
+3088,38410,Damaged
+3089,38412,Quality Issue
+3090,38418,Late Delivery
+3091,38419,Late Delivery
+3092,38423,Quality Issue
+3093,38425,Late Delivery
+3094,38426,Wrong Item
+3095,38447,Late Delivery
+3096,38448,Damaged
+3097,38452,Quality Issue
+3098,38489,Quality Issue
+3099,38502,Damaged
+3100,38505,Quality Issue
+3101,38522,Wrong Item
+3102,38531,Quality Issue
+3103,38563,Late Delivery
+3104,38565,Wrong Item
+3105,38577,Wrong Item
+3106,38578,Damaged
+3107,38584,Damaged
+3108,38625,Late Delivery
+3109,38631,Quality Issue
+3110,38649,Wrong Item
+3111,38651,Wrong Item
+3112,38654,Quality Issue
+3113,38656,Damaged
+3114,38665,Late Delivery
+3115,38667,Late Delivery
+3116,38702,Damaged
+3117,38703,Quality Issue
+3118,38707,Wrong Item
+3119,38710,Late Delivery
+3120,38724,Wrong Item
+3121,38742,Damaged
+3122,38743,Wrong Item
+3123,38764,Wrong Item
+3124,38767,Wrong Item
+3125,38773,Wrong Item
+3126,38788,Late Delivery
+3127,38795,Damaged
+3128,38813,Damaged
+3129,38820,Damaged
+3130,38827,Wrong Item
+3131,38834,Late Delivery
+3132,38839,Damaged
+3133,38853,Damaged
+3134,38860,Late Delivery
+3135,38863,Quality Issue
+3136,38889,Wrong Item
+3137,38900,Damaged
+3138,38913,Quality Issue
+3139,38971,Wrong Item
+3140,38977,Wrong Item
+3141,38992,Wrong Item
+3142,39007,Quality Issue
+3143,39014,Wrong Item
+3144,39045,Quality Issue
+3145,39081,Late Delivery
+3146,39089,Damaged
+3147,39097,Late Delivery
+3148,39122,Quality Issue
+3149,39145,Late Delivery
+3150,39149,Late Delivery
+3151,39153,Late Delivery
+3152,39210,Damaged
+3153,39212,Damaged
+3154,39232,Wrong Item
+3155,39240,Quality Issue
+3156,39251,Quality Issue
+3157,39280,Late Delivery
+3158,39301,Late Delivery
+3159,39341,Quality Issue
+3160,39369,Late Delivery
+3161,39370,Damaged
+3162,39377,Wrong Item
+3163,39386,Late Delivery
+3164,39405,Damaged
+3165,39420,Wrong Item
+3166,39423,Damaged
+3167,39429,Late Delivery
+3168,39460,Wrong Item
+3169,39461,Damaged
+3170,39470,Damaged
+3171,39492,Late Delivery
+3172,39500,Late Delivery
+3173,39505,Wrong Item
+3174,39506,Wrong Item
+3175,39511,Damaged
+3176,39513,Damaged
+3177,39516,Quality Issue
+3178,39533,Wrong Item
+3179,39555,Late Delivery
+3180,39588,Wrong Item
+3181,39603,Wrong Item
+3182,39607,Late Delivery
+3183,39636,Damaged
+3184,39672,Late Delivery
+3185,39679,Late Delivery
+3186,39697,Wrong Item
+3187,39706,Quality Issue
+3188,39709,Quality Issue
+3189,39712,Quality Issue
+3190,39717,Late Delivery
+3191,39743,Late Delivery
+3192,39750,Damaged
+3193,39767,Wrong Item
+3194,39784,Wrong Item
+3195,39810,Quality Issue
+3196,39832,Late Delivery
+3197,39853,Wrong Item
+3198,39863,Damaged
+3199,39873,Damaged
+3200,39883,Quality Issue
+3201,39885,Quality Issue
+3202,39895,Late Delivery
+3203,39900,Wrong Item
+3204,39905,Wrong Item
+3205,39915,Wrong Item
+3206,39924,Quality Issue
+3207,39928,Damaged
+3208,39937,Late Delivery
+3209,39955,Quality Issue
+3210,39976,Wrong Item
+3211,39980,Late Delivery
+3212,39997,Wrong Item
+3213,40006,Quality Issue
+3214,40013,Quality Issue
+3215,40035,Damaged
+3216,40036,Late Delivery
+3217,40056,Late Delivery
+3218,40057,Wrong Item
+3219,40099,Late Delivery
+3220,40114,Late Delivery
+3221,40122,Quality Issue
+3222,40124,Damaged
+3223,40170,Damaged
+3224,40182,Late Delivery
+3225,40194,Damaged
+3226,40204,Quality Issue
+3227,40206,Late Delivery
+3228,40212,Wrong Item
+3229,40225,Late Delivery
+3230,40226,Late Delivery
+3231,40246,Quality Issue
+3232,40274,Wrong Item
+3233,40302,Damaged
+3234,40303,Wrong Item
+3235,40308,Quality Issue
+3236,40314,Late Delivery
+3237,40320,Wrong Item
+3238,40330,Late Delivery
+3239,40334,Quality Issue
+3240,40347,Quality Issue
+3241,40358,Late Delivery
+3242,40363,Wrong Item
+3243,40390,Late Delivery
+3244,40400,Quality Issue
+3245,40410,Late Delivery
+3246,40411,Damaged
+3247,40416,Damaged
+3248,40429,Late Delivery
+3249,40462,Damaged
+3250,40471,Wrong Item
+3251,40479,Quality Issue
+3252,40483,Wrong Item
+3253,40504,Damaged
+3254,40510,Quality Issue
+3255,40533,Wrong Item
+3256,40561,Wrong Item
+3257,40568,Quality Issue
+3258,40575,Late Delivery
+3259,40577,Late Delivery
+3260,40579,Wrong Item
+3261,40584,Wrong Item
+3262,40637,Quality Issue
+3263,40643,Quality Issue
+3264,40661,Late Delivery
+3265,40680,Late Delivery
+3266,40697,Damaged
+3267,40707,Late Delivery
+3268,40712,Wrong Item
+3269,40714,Quality Issue
+3270,40723,Quality Issue
+3271,40725,Quality Issue
+3272,40759,Quality Issue
+3273,40764,Damaged
+3274,40774,Wrong Item
+3275,40784,Wrong Item
+3276,40792,Wrong Item
+3277,40803,Late Delivery
+3278,40809,Wrong Item
+3279,40813,Wrong Item
+3280,40825,Late Delivery
+3281,40828,Quality Issue
+3282,40834,Quality Issue
+3283,40845,Wrong Item
+3284,40875,Late Delivery
+3285,40879,Wrong Item
+3286,40889,Wrong Item
+3287,40918,Late Delivery
+3288,40925,Damaged
+3289,40927,Damaged
+3290,41043,Damaged
+3291,41059,Wrong Item
+3292,41063,Wrong Item
+3293,41076,Wrong Item
+3294,41084,Damaged
+3295,41095,Quality Issue
+3296,41100,Wrong Item
+3297,41111,Damaged
+3298,41124,Wrong Item
+3299,41161,Damaged
+3300,41190,Damaged
+3301,41196,Late Delivery
+3302,41227,Wrong Item
+3303,41281,Wrong Item
+3304,41291,Damaged
+3305,41296,Quality Issue
+3306,41297,Wrong Item
+3307,41334,Wrong Item
+3308,41342,Wrong Item
+3309,41346,Quality Issue
+3310,41352,Quality Issue
+3311,41357,Damaged
+3312,41389,Damaged
+3313,41391,Quality Issue
+3314,41403,Damaged
+3315,41419,Late Delivery
+3316,41440,Wrong Item
+3317,41451,Quality Issue
+3318,41494,Damaged
+3319,41509,Wrong Item
+3320,41539,Wrong Item
+3321,41555,Late Delivery
+3322,41588,Quality Issue
+3323,41605,Quality Issue
+3324,41636,Quality Issue
+3325,41640,Wrong Item
+3326,41645,Damaged
+3327,41646,Wrong Item
+3328,41662,Wrong Item
+3329,41675,Damaged
+3330,41704,Wrong Item
+3331,41706,Late Delivery
+3332,41715,Damaged
+3333,41743,Late Delivery
+3334,41760,Quality Issue
+3335,41768,Wrong Item
+3336,41778,Late Delivery
+3337,41786,Late Delivery
+3338,41802,Quality Issue
+3339,41823,Damaged
+3340,41844,Quality Issue
+3341,41848,Damaged
+3342,41874,Quality Issue
+3343,41879,Wrong Item
+3344,41882,Late Delivery
+3345,41902,Quality Issue
+3346,41903,Quality Issue
+3347,41924,Late Delivery
+3348,41937,Wrong Item
+3349,41941,Damaged
+3350,41957,Quality Issue
+3351,41960,Late Delivery
+3352,41965,Wrong Item
+3353,41991,Wrong Item
+3354,41999,Damaged
+3355,42010,Late Delivery
+3356,42023,Damaged
+3357,42044,Quality Issue
+3358,42045,Late Delivery
+3359,42058,Late Delivery
+3360,42067,Late Delivery
+3361,42083,Quality Issue
+3362,42106,Late Delivery
+3363,42114,Damaged
+3364,42116,Damaged
+3365,42122,Quality Issue
+3366,42146,Damaged
+3367,42167,Quality Issue
+3368,42189,Late Delivery
+3369,42192,Damaged
+3370,42194,Quality Issue
+3371,42198,Quality Issue
+3372,42204,Wrong Item
+3373,42241,Wrong Item
+3374,42255,Quality Issue
+3375,42259,Late Delivery
+3376,42273,Wrong Item
+3377,42278,Damaged
+3378,42279,Late Delivery
+3379,42290,Quality Issue
+3380,42292,Quality Issue
+3381,42302,Quality Issue
+3382,42304,Damaged
+3383,42326,Damaged
+3384,42327,Damaged
+3385,42365,Late Delivery
+3386,42372,Quality Issue
+3387,42376,Late Delivery
+3388,42389,Wrong Item
+3389,42397,Damaged
+3390,42401,Late Delivery
+3391,42423,Late Delivery
+3392,42426,Wrong Item
+3393,42428,Wrong Item
+3394,42437,Damaged
+3395,42473,Late Delivery
+3396,42487,Late Delivery
+3397,42499,Quality Issue
+3398,42512,Late Delivery
+3399,42516,Wrong Item
+3400,42520,Late Delivery
+3401,42534,Wrong Item
+3402,42536,Quality Issue
+3403,42539,Quality Issue
+3404,42541,Quality Issue
+3405,42543,Wrong Item
+3406,42551,Damaged
+3407,42552,Wrong Item
+3408,42581,Wrong Item
+3409,42590,Wrong Item
+3410,42591,Wrong Item
+3411,42616,Quality Issue
+3412,42620,Damaged
+3413,42639,Quality Issue
+3414,42658,Quality Issue
+3415,42675,Quality Issue
+3416,42677,Damaged
+3417,42696,Late Delivery
+3418,42702,Damaged
+3419,42714,Late Delivery
+3420,42719,Quality Issue
+3421,42746,Quality Issue
+3422,42753,Wrong Item
+3423,42781,Quality Issue
+3424,42811,Quality Issue
+3425,42813,Damaged
+3426,42820,Wrong Item
+3427,42822,Wrong Item
+3428,42829,Late Delivery
+3429,42856,Damaged
+3430,42870,Damaged
+3431,42877,Late Delivery
+3432,42889,Damaged
+3433,42911,Quality Issue
+3434,42928,Quality Issue
+3435,42930,Late Delivery
+3436,42942,Damaged
+3437,42946,Quality Issue
+3438,42948,Quality Issue
+3439,42984,Wrong Item
+3440,42985,Late Delivery
+3441,43011,Quality Issue
+3442,43018,Quality Issue
+3443,43022,Quality Issue
+3444,43026,Damaged
+3445,43030,Wrong Item
+3446,43068,Damaged
+3447,43081,Damaged
+3448,43099,Late Delivery
+3449,43101,Wrong Item
+3450,43105,Late Delivery
+3451,43109,Late Delivery
+3452,43119,Wrong Item
+3453,43121,Wrong Item
+3454,43122,Wrong Item
+3455,43127,Quality Issue
+3456,43150,Wrong Item
+3457,43154,Wrong Item
+3458,43179,Damaged
+3459,43180,Wrong Item
+3460,43182,Quality Issue
+3461,43195,Damaged
+3462,43202,Damaged
+3463,43238,Wrong Item
+3464,43250,Late Delivery
+3465,43303,Wrong Item
+3466,43305,Late Delivery
+3467,43315,Quality Issue
+3468,43323,Wrong Item
+3469,43331,Damaged
+3470,43336,Damaged
+3471,43349,Quality Issue
+3472,43363,Quality Issue
+3473,43375,Late Delivery
+3474,43391,Wrong Item
+3475,43412,Late Delivery
+3476,43428,Wrong Item
+3477,43429,Wrong Item
+3478,43457,Quality Issue
+3479,43470,Quality Issue
+3480,43472,Late Delivery
+3481,43508,Wrong Item
+3482,43510,Wrong Item
+3483,43527,Wrong Item
+3484,43536,Wrong Item
+3485,43576,Late Delivery
+3486,43629,Late Delivery
+3487,43633,Late Delivery
+3488,43635,Damaged
+3489,43647,Late Delivery
+3490,43654,Quality Issue
+3491,43668,Wrong Item
+3492,43675,Damaged
+3493,43678,Quality Issue
+3494,43696,Late Delivery
+3495,43711,Damaged
+3496,43720,Wrong Item
+3497,43752,Quality Issue
+3498,43775,Damaged
+3499,43782,Damaged
+3500,43789,Damaged
+3501,43803,Late Delivery
+3502,43816,Late Delivery
+3503,43832,Late Delivery
+3504,43837,Wrong Item
+3505,43848,Wrong Item
+3506,43855,Damaged
+3507,43866,Wrong Item
+3508,43901,Quality Issue
+3509,43903,Late Delivery
+3510,43908,Wrong Item
+3511,43931,Late Delivery
+3512,43935,Damaged
+3513,43958,Damaged
+3514,43959,Damaged
+3515,43963,Wrong Item
+3516,43969,Late Delivery
+3517,44009,Wrong Item
+3518,44010,Damaged
+3519,44013,Wrong Item
+3520,44014,Wrong Item
+3521,44029,Wrong Item
+3522,44058,Late Delivery
+3523,44080,Quality Issue
+3524,44095,Wrong Item
+3525,44106,Wrong Item
+3526,44107,Wrong Item
+3527,44110,Late Delivery
+3528,44116,Late Delivery
+3529,44126,Wrong Item
+3530,44143,Wrong Item
+3531,44159,Quality Issue
+3532,44180,Wrong Item
+3533,44190,Quality Issue
+3534,44192,Wrong Item
+3535,44200,Damaged
+3536,44204,Late Delivery
+3537,44213,Quality Issue
+3538,44224,Quality Issue
+3539,44240,Quality Issue
+3540,44250,Damaged
+3541,44258,Quality Issue
+3542,44265,Damaged
+3543,44278,Damaged
+3544,44302,Damaged
+3545,44304,Quality Issue
+3546,44334,Quality Issue
+3547,44357,Quality Issue
+3548,44379,Damaged
+3549,44386,Damaged
+3550,44411,Damaged
+3551,44415,Wrong Item
+3552,44425,Wrong Item
+3553,44434,Quality Issue
+3554,44447,Wrong Item
+3555,44453,Wrong Item
+3556,44457,Late Delivery
+3557,44492,Late Delivery
+3558,44494,Wrong Item
+3559,44496,Damaged
+3560,44510,Quality Issue
+3561,44518,Quality Issue
+3562,44521,Damaged
+3563,44522,Wrong Item
+3564,44525,Damaged
+3565,44532,Damaged
+3566,44554,Quality Issue
+3567,44555,Damaged
+3568,44577,Late Delivery
+3569,44593,Wrong Item
+3570,44605,Wrong Item
+3571,44610,Quality Issue
+3572,44630,Damaged
+3573,44637,Wrong Item
+3574,44648,Damaged
+3575,44654,Late Delivery
+3576,44660,Quality Issue
+3577,44662,Wrong Item
+3578,44686,Damaged
+3579,44700,Damaged
+3580,44705,Quality Issue
+3581,44710,Wrong Item
+3582,44726,Damaged
+3583,44727,Damaged
+3584,44782,Damaged
+3585,44787,Damaged
+3586,44835,Damaged
+3587,44847,Quality Issue
+3588,44861,Late Delivery
+3589,44862,Wrong Item
+3590,44920,Damaged
+3591,44932,Wrong Item
+3592,44961,Late Delivery
+3593,44967,Damaged
+3594,44968,Late Delivery
+3595,44993,Quality Issue
+3596,45007,Quality Issue
+3597,45031,Damaged
+3598,45042,Late Delivery
+3599,45045,Late Delivery
+3600,45046,Wrong Item
+3601,45060,Wrong Item
+3602,45061,Quality Issue
+3603,45067,Damaged
+3604,45084,Late Delivery
+3605,45085,Damaged
+3606,45086,Quality Issue
+3607,45124,Quality Issue
+3608,45131,Wrong Item
+3609,45169,Wrong Item
+3610,45188,Late Delivery
+3611,45200,Wrong Item
+3612,45201,Damaged
+3613,45207,Damaged
+3614,45215,Damaged
+3615,45257,Wrong Item
+3616,45270,Late Delivery
+3617,45273,Damaged
+3618,45284,Damaged
+3619,45289,Quality Issue
+3620,45372,Quality Issue
+3621,45373,Wrong Item
+3622,45388,Damaged
+3623,45390,Damaged
+3624,45411,Late Delivery
+3625,45429,Late Delivery
+3626,45436,Damaged
+3627,45449,Damaged
+3628,45453,Late Delivery
+3629,45477,Quality Issue
+3630,45491,Damaged
+3631,45492,Quality Issue
+3632,45518,Damaged
+3633,45522,Wrong Item
+3634,45532,Damaged
+3635,45541,Late Delivery
+3636,45555,Damaged
+3637,45563,Quality Issue
+3638,45569,Damaged
+3639,45572,Late Delivery
+3640,45580,Late Delivery
+3641,45594,Quality Issue
+3642,45609,Damaged
+3643,45624,Wrong Item
+3644,45627,Wrong Item
+3645,45632,Wrong Item
+3646,45634,Damaged
+3647,45636,Quality Issue
+3648,45646,Quality Issue
+3649,45660,Late Delivery
+3650,45664,Wrong Item
+3651,45666,Late Delivery
+3652,45695,Late Delivery
+3653,45698,Quality Issue
+3654,45715,Late Delivery
+3655,45716,Late Delivery
+3656,45717,Wrong Item
+3657,45737,Quality Issue
+3658,45738,Damaged
+3659,45767,Wrong Item
+3660,45790,Damaged
+3661,45803,Late Delivery
+3662,45810,Quality Issue
+3663,45811,Damaged
+3664,45824,Wrong Item
+3665,45825,Late Delivery
+3666,45829,Late Delivery
+3667,45843,Wrong Item
+3668,45897,Wrong Item
+3669,45906,Wrong Item
+3670,45910,Damaged
+3671,45912,Damaged
+3672,45945,Late Delivery
+3673,45963,Damaged
+3674,45985,Quality Issue
+3675,45991,Late Delivery
+3676,46006,Wrong Item
+3677,46021,Damaged
+3678,46057,Quality Issue
+3679,46062,Wrong Item
+3680,46069,Damaged
+3681,46088,Quality Issue
+3682,46098,Late Delivery
+3683,46100,Late Delivery
+3684,46108,Wrong Item
+3685,46115,Damaged
+3686,46119,Wrong Item
+3687,46142,Late Delivery
+3688,46145,Wrong Item
+3689,46214,Late Delivery
+3690,46218,Damaged
+3691,46275,Late Delivery
+3692,46276,Late Delivery
+3693,46282,Quality Issue
+3694,46285,Wrong Item
+3695,46289,Wrong Item
+3696,46308,Damaged
+3697,46321,Damaged
+3698,46334,Wrong Item
+3699,46343,Damaged
+3700,46420,Damaged
+3701,46444,Late Delivery
+3702,46458,Late Delivery
+3703,46459,Late Delivery
+3704,46461,Damaged
+3705,46462,Quality Issue
+3706,46475,Damaged
+3707,46478,Wrong Item
+3708,46483,Quality Issue
+3709,46495,Damaged
+3710,46513,Damaged
+3711,46516,Quality Issue
+3712,46523,Damaged
+3713,46525,Damaged
+3714,46527,Late Delivery
+3715,46542,Quality Issue
+3716,46567,Quality Issue
+3717,46570,Wrong Item
+3718,46571,Damaged
+3719,46590,Wrong Item
+3720,46624,Wrong Item
+3721,46636,Quality Issue
+3722,46674,Damaged
+3723,46676,Quality Issue
+3724,46682,Wrong Item
+3725,46683,Late Delivery
+3726,46685,Quality Issue
+3727,46692,Late Delivery
+3728,46715,Wrong Item
+3729,46719,Quality Issue
+3730,46721,Damaged
+3731,46722,Quality Issue
+3732,46726,Wrong Item
+3733,46734,Late Delivery
+3734,46750,Wrong Item
+3735,46752,Damaged
+3736,46754,Late Delivery
+3737,46757,Late Delivery
+3738,46760,Quality Issue
+3739,46765,Damaged
+3740,46774,Damaged
+3741,46778,Damaged
+3742,46782,Quality Issue
+3743,46785,Late Delivery
+3744,46788,Wrong Item
+3745,46790,Damaged
+3746,46795,Late Delivery
+3747,46816,Wrong Item
+3748,46841,Late Delivery
+3749,46844,Wrong Item
+3750,46851,Wrong Item
+3751,46867,Damaged
+3752,46879,Wrong Item
+3753,46888,Late Delivery
+3754,46891,Damaged
+3755,46901,Late Delivery
+3756,46904,Late Delivery
+3757,46917,Late Delivery
+3758,46923,Late Delivery
+3759,46946,Wrong Item
+3760,46966,Damaged
+3761,46988,Damaged
+3762,46993,Damaged
+3763,47027,Wrong Item
+3764,47058,Wrong Item
+3765,47063,Damaged
+3766,47069,Wrong Item
+3767,47084,Late Delivery
+3768,47117,Quality Issue
+3769,47131,Damaged
+3770,47134,Late Delivery
+3771,47153,Late Delivery
+3772,47155,Damaged
+3773,47156,Wrong Item
+3774,47189,Wrong Item
+3775,47206,Wrong Item
+3776,47208,Late Delivery
+3777,47211,Damaged
+3778,47214,Late Delivery
+3779,47226,Quality Issue
+3780,47237,Damaged
+3781,47252,Late Delivery
+3782,47269,Wrong Item
+3783,47275,Damaged
+3784,47295,Late Delivery
+3785,47312,Late Delivery
+3786,47318,Quality Issue
+3787,47347,Quality Issue
+3788,47357,Wrong Item
+3789,47366,Quality Issue
+3790,47405,Late Delivery
+3791,47417,Quality Issue
+3792,47424,Late Delivery
+3793,47439,Quality Issue
+3794,47456,Quality Issue
+3795,47469,Late Delivery
+3796,47472,Late Delivery
+3797,47474,Quality Issue
+3798,47483,Damaged
+3799,47486,Late Delivery
+3800,47503,Damaged
+3801,47514,Damaged
+3802,47520,Quality Issue
+3803,47533,Damaged
+3804,47590,Wrong Item
+3805,47594,Damaged
+3806,47596,Quality Issue
+3807,47606,Damaged
+3808,47610,Late Delivery
+3809,47616,Late Delivery
+3810,47619,Late Delivery
+3811,47630,Damaged
+3812,47631,Quality Issue
+3813,47636,Late Delivery
+3814,47642,Wrong Item
+3815,47666,Quality Issue
+3816,47685,Wrong Item
+3817,47693,Late Delivery
+3818,47759,Damaged
+3819,47786,Wrong Item
+3820,47792,Damaged
+3821,47799,Quality Issue
+3822,47801,Wrong Item
+3823,47827,Wrong Item
+3824,47831,Quality Issue
+3825,47837,Late Delivery
+3826,47842,Wrong Item
+3827,47855,Wrong Item
+3828,47860,Wrong Item
+3829,47873,Damaged
+3830,47913,Damaged
+3831,47916,Wrong Item
+3832,47922,Damaged
+3833,47946,Quality Issue
+3834,47949,Quality Issue
+3835,47964,Late Delivery
+3836,47972,Damaged
+3837,47979,Damaged
+3838,47995,Damaged
+3839,48005,Wrong Item
+3840,48006,Damaged
+3841,48015,Late Delivery
+3842,48024,Damaged
+3843,48043,Late Delivery
+3844,48065,Late Delivery
+3845,48074,Quality Issue
+3846,48078,Late Delivery
+3847,48110,Late Delivery
+3848,48113,Wrong Item
+3849,48116,Late Delivery
+3850,48123,Wrong Item
+3851,48132,Late Delivery
+3852,48137,Wrong Item
+3853,48141,Quality Issue
+3854,48152,Late Delivery
+3855,48156,Damaged
+3856,48167,Late Delivery
+3857,48172,Wrong Item
+3858,48176,Damaged
+3859,48186,Wrong Item
+3860,48196,Late Delivery
+3861,48199,Wrong Item
+3862,48200,Quality Issue
+3863,48205,Damaged
+3864,48210,Late Delivery
+3865,48259,Quality Issue
+3866,48263,Wrong Item
+3867,48273,Damaged
+3868,48288,Late Delivery
+3869,48307,Damaged
+3870,48311,Quality Issue
+3871,48312,Late Delivery
+3872,48320,Quality Issue
+3873,48343,Late Delivery
+3874,48349,Damaged
+3875,48359,Wrong Item
+3876,48374,Quality Issue
+3877,48412,Quality Issue
+3878,48414,Late Delivery
+3879,48415,Damaged
+3880,48426,Late Delivery
+3881,48439,Wrong Item
+3882,48440,Late Delivery
+3883,48442,Late Delivery
+3884,48450,Quality Issue
+3885,48453,Wrong Item
+3886,48470,Damaged
+3887,48476,Late Delivery
+3888,48491,Damaged
+3889,48500,Wrong Item
+3890,48535,Damaged
+3891,48563,Damaged
+3892,48569,Damaged
+3893,48592,Damaged
+3894,48606,Late Delivery
+3895,48611,Damaged
+3896,48636,Quality Issue
+3897,48639,Wrong Item
+3898,48645,Quality Issue
+3899,48647,Wrong Item
+3900,48653,Late Delivery
+3901,48662,Wrong Item
+3902,48669,Wrong Item
+3903,48672,Quality Issue
+3904,48673,Damaged
+3905,48696,Wrong Item
+3906,48705,Wrong Item
+3907,48715,Damaged
+3908,48736,Quality Issue
+3909,48755,Damaged
+3910,48756,Wrong Item
+3911,48760,Damaged
+3912,48780,Late Delivery
+3913,48784,Wrong Item
+3914,48798,Quality Issue
+3915,48802,Damaged
+3916,48819,Quality Issue
+3917,48825,Quality Issue
+3918,48829,Quality Issue
+3919,48832,Wrong Item
+3920,48836,Quality Issue
+3921,48840,Quality Issue
+3922,48846,Quality Issue
+3923,48850,Late Delivery
+3924,48860,Late Delivery
+3925,48862,Late Delivery
+3926,48869,Quality Issue
+3927,48879,Late Delivery
+3928,48882,Quality Issue
+3929,48912,Wrong Item
+3930,48927,Quality Issue
+3931,48935,Quality Issue
+3932,48951,Wrong Item
+3933,48974,Late Delivery
+3934,48977,Damaged
+3935,48982,Damaged
+3936,48983,Late Delivery
+3937,48993,Late Delivery
+3938,49016,Quality Issue
+3939,49025,Late Delivery
+3940,49031,Quality Issue
+3941,49032,Late Delivery
+3942,49036,Wrong Item
+3943,49039,Late Delivery
+3944,49041,Late Delivery
+3945,49043,Quality Issue
+3946,49047,Late Delivery
+3947,49064,Damaged
+3948,49105,Quality Issue
+3949,49111,Damaged
+3950,49119,Late Delivery
+3951,49127,Late Delivery
+3952,49131,Quality Issue
+3953,49157,Damaged
+3954,49161,Wrong Item
+3955,49162,Wrong Item
+3956,49175,Quality Issue
+3957,49194,Damaged
+3958,49197,Quality Issue
+3959,49215,Quality Issue
+3960,49231,Damaged
+3961,49234,Quality Issue
+3962,49267,Wrong Item
+3963,49276,Wrong Item
+3964,49278,Damaged
+3965,49279,Late Delivery
+3966,49298,Wrong Item
+3967,49303,Late Delivery
+3968,49306,Quality Issue
+3969,49314,Late Delivery
+3970,49318,Damaged
+3971,49386,Late Delivery
+3972,49409,Quality Issue
+3973,49422,Wrong Item
+3974,49430,Quality Issue
+3975,49433,Wrong Item
+3976,49451,Damaged
+3977,49483,Quality Issue
+3978,49494,Wrong Item
+3979,49500,Wrong Item
+3980,49509,Quality Issue
+3981,49512,Wrong Item
+3982,49514,Wrong Item
+3983,49521,Quality Issue
+3984,49550,Quality Issue
+3985,49553,Quality Issue
+3986,49561,Damaged
+3987,49569,Damaged
+3988,49570,Quality Issue
+3989,49573,Wrong Item
+3990,49599,Damaged
+3991,49610,Wrong Item
+3992,49621,Quality Issue
+3993,49622,Quality Issue
+3994,49635,Damaged
+3995,49642,Wrong Item
+3996,49660,Damaged
+3997,49668,Wrong Item
+3998,49672,Late Delivery
+3999,49704,Wrong Item
+4000,49713,Wrong Item
+4001,49719,Wrong Item
+4002,49758,Damaged
+4003,49778,Damaged
+4004,49793,Late Delivery
+4005,49812,Damaged
+4006,49813,Quality Issue
+4007,49817,Quality Issue
+4008,49825,Quality Issue
+4009,49840,Wrong Item
+4010,49856,Late Delivery
+4011,49858,Wrong Item
+4012,49860,Late Delivery
+4013,49888,Late Delivery
+4014,49932,Quality Issue
+4015,49945,Damaged
+4016,49951,Late Delivery
+4017,49952,Damaged
+4018,49959,Damaged
+4019,49962,Late Delivery
+4020,49964,Late Delivery
+4021,49966,Late Delivery
+4022,49989,Quality Issue
+4023,49999,Quality Issue
+4024,50011,Wrong Item
+4025,50012,Quality Issue
+4026,50017,Quality Issue
+4027,50038,Quality Issue
+4028,50049,Wrong Item
+4029,50051,Quality Issue
+4030,50053,Late Delivery
+4031,50059,Late Delivery
+4032,50079,Quality Issue
+4033,50096,Damaged
+4034,50097,Quality Issue
+4035,50114,Late Delivery
+4036,50133,Wrong Item
+4037,50148,Wrong Item
+4038,50162,Quality Issue
+4039,50164,Late Delivery
+4040,50175,Wrong Item
+4041,50182,Wrong Item
+4042,50188,Quality Issue
+4043,50203,Quality Issue
+4044,50207,Wrong Item
+4045,50217,Wrong Item
+4046,50228,Wrong Item
+4047,50262,Late Delivery
+4048,50269,Wrong Item
+4049,50284,Quality Issue
+4050,50293,Late Delivery
+4051,50295,Quality Issue
+4052,50320,Wrong Item
+4053,50325,Quality Issue
+4054,50326,Quality Issue
+4055,50351,Late Delivery
+4056,50353,Damaged
+4057,50383,Damaged
+4058,50398,Late Delivery
+4059,50403,Quality Issue
+4060,50405,Late Delivery
+4061,50423,Damaged
+4062,50442,Quality Issue
+4063,50447,Wrong Item
+4064,50454,Damaged
+4065,50503,Late Delivery
+4066,50511,Wrong Item
+4067,50517,Late Delivery
+4068,50525,Damaged
+4069,50529,Damaged
+4070,50531,Damaged
+4071,50551,Wrong Item
+4072,50554,Wrong Item
+4073,50567,Wrong Item
+4074,50572,Quality Issue
+4075,50577,Damaged
+4076,50581,Damaged
+4077,50584,Quality Issue
+4078,50601,Quality Issue
+4079,50623,Late Delivery
+4080,50644,Wrong Item
+4081,50674,Wrong Item
+4082,50678,Damaged
+4083,50679,Late Delivery
+4084,50703,Damaged
+4085,50704,Quality Issue
+4086,50713,Quality Issue
+4087,50714,Quality Issue
+4088,50738,Quality Issue
+4089,50748,Damaged
+4090,50751,Wrong Item
+4091,50754,Damaged
+4092,50768,Quality Issue
+4093,50776,Late Delivery
+4094,50791,Damaged
+4095,50796,Damaged
+4096,50817,Wrong Item
+4097,50823,Quality Issue
+4098,50827,Quality Issue
+4099,50836,Wrong Item
+4100,50839,Quality Issue
+4101,50849,Damaged
+4102,50871,Late Delivery
+4103,50878,Late Delivery
+4104,50891,Damaged
+4105,50901,Wrong Item
+4106,50903,Damaged
+4107,50906,Damaged
+4108,50909,Quality Issue
+4109,50943,Late Delivery
+4110,50944,Damaged
+4111,50945,Late Delivery
+4112,50962,Late Delivery
+4113,50981,Late Delivery
+4114,50982,Damaged
+4115,50996,Quality Issue
+4116,51000,Wrong Item
+4117,51029,Quality Issue
+4118,51055,Damaged
+4119,51060,Damaged
+4120,51072,Damaged
+4121,51078,Damaged
+4122,51086,Damaged
+4123,51098,Quality Issue
+4124,51118,Late Delivery
+4125,51131,Wrong Item
+4126,51173,Late Delivery
+4127,51179,Quality Issue
+4128,51181,Late Delivery
+4129,51201,Late Delivery
+4130,51203,Wrong Item
+4131,51244,Damaged
+4132,51254,Damaged
+4133,51260,Quality Issue
+4134,51263,Damaged
+4135,51295,Late Delivery
+4136,51303,Damaged
+4137,51308,Wrong Item
+4138,51329,Late Delivery
+4139,51335,Quality Issue
+4140,51341,Late Delivery
+4141,51354,Quality Issue
+4142,51356,Quality Issue
+4143,51361,Late Delivery
+4144,51365,Quality Issue
+4145,51390,Damaged
+4146,51396,Quality Issue
+4147,51424,Quality Issue
+4148,51426,Damaged
+4149,51434,Damaged
+4150,51450,Wrong Item
+4151,51455,Late Delivery
+4152,51467,Quality Issue
+4153,51475,Quality Issue
+4154,51485,Late Delivery
+4155,51494,Wrong Item
+4156,51507,Quality Issue
+4157,51509,Damaged
+4158,51514,Late Delivery
+4159,51534,Damaged
+4160,51542,Late Delivery
+4161,51551,Late Delivery
+4162,51557,Wrong Item
+4163,51585,Late Delivery
+4164,51615,Damaged
+4165,51629,Wrong Item
+4166,51632,Late Delivery
+4167,51633,Wrong Item
+4168,51638,Damaged
+4169,51643,Damaged
+4170,51656,Late Delivery
+4171,51657,Wrong Item
+4172,51666,Damaged
+4173,51671,Late Delivery
+4174,51690,Damaged
+4175,51709,Wrong Item
+4176,51777,Late Delivery
+4177,51784,Damaged
+4178,51786,Damaged
+4179,51787,Late Delivery
+4180,51796,Quality Issue
+4181,51815,Quality Issue
+4182,51819,Quality Issue
+4183,51827,Wrong Item
+4184,51839,Quality Issue
+4185,51841,Late Delivery
+4186,51849,Late Delivery
+4187,51873,Late Delivery
+4188,51883,Quality Issue
+4189,51912,Quality Issue
+4190,51918,Wrong Item
+4191,51920,Quality Issue
+4192,51927,Late Delivery
+4193,51932,Wrong Item
+4194,51942,Quality Issue
+4195,51944,Wrong Item
+4196,51946,Wrong Item
+4197,51955,Damaged
+4198,51959,Quality Issue
+4199,51969,Late Delivery
+4200,51980,Quality Issue
+4201,51986,Late Delivery
+4202,51992,Damaged
+4203,51994,Wrong Item
+4204,52001,Wrong Item
+4205,52013,Quality Issue
+4206,52032,Damaged
+4207,52043,Wrong Item
+4208,52046,Quality Issue
+4209,52059,Damaged
+4210,52065,Wrong Item
+4211,52081,Damaged
+4212,52105,Quality Issue
+4213,52107,Late Delivery
+4214,52126,Damaged
+4215,52139,Quality Issue
+4216,52152,Wrong Item
+4217,52153,Wrong Item
+4218,52155,Damaged
+4219,52158,Damaged
+4220,52186,Wrong Item
+4221,52190,Quality Issue
+4222,52194,Wrong Item
+4223,52197,Damaged
+4224,52203,Wrong Item
+4225,52205,Quality Issue
+4226,52224,Wrong Item
+4227,52262,Late Delivery
+4228,52264,Wrong Item
+4229,52286,Quality Issue
+4230,52316,Wrong Item
+4231,52319,Quality Issue
+4232,52339,Quality Issue
+4233,52340,Damaged
+4234,52384,Damaged
+4235,52385,Late Delivery
+4236,52386,Quality Issue
+4237,52410,Quality Issue
+4238,52486,Wrong Item
+4239,52510,Quality Issue
+4240,52527,Wrong Item
+4241,52529,Quality Issue
+4242,52539,Late Delivery
+4243,52562,Damaged
+4244,52603,Quality Issue
+4245,52615,Late Delivery
+4246,52637,Quality Issue
+4247,52639,Quality Issue
+4248,52649,Quality Issue
+4249,52652,Quality Issue
+4250,52671,Damaged
+4251,52676,Late Delivery
+4252,52684,Late Delivery
+4253,52688,Late Delivery
+4254,52718,Late Delivery
+4255,52732,Late Delivery
+4256,52733,Wrong Item
+4257,52734,Damaged
+4258,52753,Wrong Item
+4259,52787,Wrong Item
+4260,52795,Quality Issue
+4261,52841,Late Delivery
+4262,52846,Quality Issue
+4263,52853,Late Delivery
+4264,52869,Quality Issue
+4265,52881,Quality Issue
+4266,52894,Quality Issue
+4267,52930,Wrong Item
+4268,52933,Wrong Item
+4269,52953,Damaged
+4270,52973,Damaged
+4271,52982,Late Delivery
+4272,52984,Late Delivery
+4273,52993,Quality Issue
+4274,53000,Late Delivery
+4275,53017,Quality Issue
+4276,53019,Late Delivery
+4277,53066,Damaged
+4278,53068,Late Delivery
+4279,53079,Damaged
+4280,53089,Quality Issue
+4281,53095,Late Delivery
+4282,53108,Late Delivery
+4283,53115,Damaged
+4284,53180,Quality Issue
+4285,53186,Quality Issue
+4286,53196,Quality Issue
+4287,53205,Damaged
+4288,53206,Damaged
+4289,53234,Damaged
+4290,53249,Damaged
+4291,53272,Damaged
+4292,53291,Damaged
+4293,53307,Late Delivery
+4294,53321,Damaged
+4295,53324,Quality Issue
+4296,53325,Damaged
+4297,53334,Late Delivery
+4298,53340,Late Delivery
+4299,53347,Wrong Item
+4300,53352,Damaged
+4301,53360,Quality Issue
+4302,53365,Damaged
+4303,53378,Wrong Item
+4304,53384,Damaged
+4305,53391,Late Delivery
+4306,53393,Quality Issue
+4307,53404,Wrong Item
+4308,53418,Damaged
+4309,53428,Damaged
+4310,53433,Damaged
+4311,53434,Late Delivery
+4312,53449,Late Delivery
+4313,53476,Wrong Item
+4314,53484,Damaged
+4315,53489,Quality Issue
+4316,53505,Wrong Item
+4317,53537,Damaged
+4318,53539,Late Delivery
+4319,53542,Wrong Item
+4320,53555,Damaged
+4321,53556,Damaged
+4322,53569,Damaged
+4323,53613,Wrong Item
+4324,53614,Late Delivery
+4325,53619,Late Delivery
+4326,53664,Damaged
+4327,53677,Quality Issue
+4328,53678,Wrong Item
+4329,53688,Quality Issue
+4330,53691,Late Delivery
+4331,53704,Quality Issue
+4332,53705,Late Delivery
+4333,53709,Damaged
+4334,53716,Damaged
+4335,53758,Quality Issue
+4336,53771,Quality Issue
+4337,53776,Wrong Item
+4338,53783,Wrong Item
+4339,53784,Late Delivery
+4340,53790,Late Delivery
+4341,53793,Wrong Item
+4342,53802,Quality Issue
+4343,53808,Damaged
+4344,53809,Damaged
+4345,53817,Late Delivery
+4346,53841,Damaged
+4347,53848,Damaged
+4348,53860,Late Delivery
+4349,53872,Damaged
+4350,53903,Late Delivery
+4351,53910,Late Delivery
+4352,53913,Damaged
+4353,53933,Late Delivery
+4354,53947,Damaged
+4355,54001,Damaged
+4356,54005,Wrong Item
+4357,54008,Late Delivery
+4358,54013,Wrong Item
+4359,54061,Late Delivery
+4360,54063,Quality Issue
+4361,54064,Late Delivery
+4362,54093,Wrong Item
+4363,54098,Quality Issue
+4364,54102,Damaged
+4365,54113,Damaged
+4366,54128,Late Delivery
+4367,54144,Wrong Item
+4368,54152,Late Delivery
+4369,54159,Wrong Item
+4370,54181,Late Delivery
+4371,54183,Damaged
+4372,54191,Late Delivery
+4373,54193,Late Delivery
+4374,54197,Wrong Item
+4375,54201,Late Delivery
+4376,54207,Late Delivery
+4377,54216,Late Delivery
+4378,54224,Wrong Item
+4379,54225,Damaged
+4380,54262,Damaged
+4381,54267,Wrong Item
+4382,54279,Wrong Item
+4383,54281,Damaged
+4384,54295,Damaged
+4385,54310,Damaged
+4386,54370,Quality Issue
+4387,54395,Quality Issue
+4388,54396,Late Delivery
+4389,54419,Damaged
+4390,54436,Quality Issue
+4391,54456,Late Delivery
+4392,54478,Late Delivery
+4393,54489,Late Delivery
+4394,54499,Late Delivery
+4395,54514,Damaged
+4396,54528,Wrong Item
+4397,54536,Late Delivery
+4398,54546,Quality Issue
+4399,54556,Late Delivery
+4400,54558,Quality Issue
+4401,54579,Damaged
+4402,54583,Wrong Item
+4403,54594,Quality Issue
+4404,54624,Damaged
+4405,54627,Damaged
+4406,54642,Wrong Item
+4407,54685,Quality Issue
+4408,54695,Quality Issue
+4409,54696,Quality Issue
+4410,54728,Quality Issue
+4411,54744,Wrong Item
+4412,54762,Damaged
+4413,54805,Wrong Item
+4414,54845,Late Delivery
+4415,54854,Late Delivery
+4416,54857,Wrong Item
+4417,54865,Damaged
+4418,54868,Quality Issue
+4419,54885,Wrong Item
+4420,54919,Damaged
+4421,54923,Quality Issue
+4422,54927,Quality Issue
+4423,54931,Damaged
+4424,54966,Late Delivery
+4425,54981,Damaged
+4426,55007,Wrong Item
+4427,55039,Wrong Item
+4428,55053,Late Delivery
+4429,55064,Late Delivery
+4430,55078,Late Delivery
+4431,55116,Damaged
+4432,55123,Quality Issue
+4433,55134,Wrong Item
+4434,55142,Quality Issue
+4435,55144,Quality Issue
+4436,55163,Quality Issue
+4437,55175,Wrong Item
+4438,55178,Damaged
+4439,55185,Damaged
+4440,55193,Quality Issue
+4441,55195,Late Delivery
+4442,55224,Wrong Item
+4443,55241,Wrong Item
+4444,55250,Quality Issue
+4445,55252,Wrong Item
+4446,55255,Quality Issue
+4447,55279,Quality Issue
+4448,55281,Quality Issue
+4449,55285,Wrong Item
+4450,55287,Late Delivery
+4451,55302,Damaged
+4452,55320,Late Delivery
+4453,55345,Late Delivery
+4454,55355,Wrong Item
+4455,55381,Wrong Item
+4456,55405,Quality Issue
+4457,55410,Wrong Item
+4458,55460,Damaged
+4459,55483,Late Delivery
+4460,55493,Late Delivery
+4461,55496,Late Delivery
+4462,55499,Late Delivery
+4463,55500,Quality Issue
+4464,55502,Damaged
+4465,55529,Quality Issue
+4466,55531,Damaged
+4467,55543,Quality Issue
+4468,55556,Damaged
+4469,55557,Late Delivery
+4470,55584,Late Delivery
+4471,55591,Wrong Item
+4472,55618,Quality Issue
+4473,55623,Late Delivery
+4474,55635,Wrong Item
+4475,55656,Late Delivery
+4476,55675,Wrong Item
+4477,55694,Damaged
+4478,55699,Damaged
+4479,55719,Quality Issue
+4480,55722,Wrong Item
+4481,55745,Damaged
+4482,55806,Quality Issue
+4483,55816,Wrong Item
+4484,55831,Late Delivery
+4485,55835,Wrong Item
+4486,55847,Quality Issue
+4487,55859,Damaged
+4488,55870,Late Delivery
+4489,55883,Quality Issue
+4490,55914,Damaged
+4491,55917,Damaged
+4492,55922,Late Delivery
+4493,55999,Damaged
+4494,56002,Late Delivery
+4495,56005,Wrong Item
+4496,56013,Wrong Item
+4497,56038,Wrong Item
+4498,56045,Wrong Item
+4499,56066,Late Delivery
+4500,56070,Late Delivery
+4501,56071,Wrong Item
+4502,56105,Quality Issue
+4503,56111,Wrong Item
+4504,56115,Quality Issue
+4505,56124,Wrong Item
+4506,56168,Late Delivery
+4507,56229,Wrong Item
+4508,56232,Late Delivery
+4509,56242,Wrong Item
+4510,56255,Quality Issue
+4511,56256,Wrong Item
+4512,56272,Wrong Item
+4513,56287,Wrong Item
+4514,56315,Late Delivery
+4515,56325,Damaged
+4516,56327,Wrong Item
+4517,56335,Damaged
+4518,56340,Damaged
+4519,56341,Quality Issue
+4520,56349,Damaged
+4521,56352,Late Delivery
+4522,56355,Damaged
+4523,56358,Quality Issue
+4524,56360,Quality Issue
+4525,56387,Quality Issue
+4526,56414,Late Delivery
+4527,56515,Wrong Item
+4528,56516,Wrong Item
+4529,56524,Quality Issue
+4530,56531,Wrong Item
+4531,56532,Quality Issue
+4532,56543,Damaged
+4533,56547,Damaged
+4534,56548,Wrong Item
+4535,56564,Late Delivery
+4536,56568,Quality Issue
+4537,56599,Damaged
+4538,56603,Damaged
+4539,56619,Damaged
+4540,56625,Wrong Item
+4541,56629,Damaged
+4542,56646,Wrong Item
+4543,56660,Quality Issue
+4544,56666,Quality Issue
+4545,56671,Late Delivery
+4546,56673,Quality Issue
+4547,56682,Wrong Item
+4548,56689,Damaged
+4549,56700,Damaged
+4550,56711,Late Delivery
+4551,56716,Damaged
+4552,56725,Quality Issue
+4553,56732,Wrong Item
+4554,56740,Late Delivery
+4555,56744,Quality Issue
+4556,56755,Damaged
+4557,56776,Wrong Item
+4558,56815,Quality Issue
+4559,56832,Damaged
+4560,56835,Late Delivery
+4561,56839,Damaged
+4562,56852,Damaged
+4563,56854,Wrong Item
+4564,56863,Quality Issue
+4565,56879,Wrong Item
+4566,56889,Quality Issue
+4567,56899,Late Delivery
+4568,56912,Quality Issue
+4569,56919,Late Delivery
+4570,56942,Wrong Item
+4571,56943,Quality Issue
+4572,56959,Late Delivery
+4573,56963,Damaged
+4574,56965,Quality Issue
+4575,56968,Quality Issue
+4576,56983,Late Delivery
+4577,56986,Quality Issue
+4578,57000,Wrong Item
+4579,57005,Wrong Item
+4580,57013,Quality Issue
+4581,57014,Damaged
+4582,57020,Wrong Item
+4583,57040,Quality Issue
+4584,57042,Wrong Item
+4585,57053,Damaged
+4586,57066,Late Delivery
+4587,57069,Late Delivery
+4588,57080,Late Delivery
+4589,57086,Damaged
+4590,57124,Quality Issue
+4591,57161,Quality Issue
+4592,57171,Quality Issue
+4593,57189,Quality Issue
+4594,57191,Quality Issue
+4595,57205,Damaged
+4596,57206,Quality Issue
+4597,57217,Late Delivery
+4598,57221,Late Delivery
+4599,57248,Late Delivery
+4600,57274,Damaged
+4601,57328,Late Delivery
+4602,57348,Damaged
+4603,57357,Wrong Item
+4604,57372,Damaged
+4605,57383,Damaged
+4606,57390,Quality Issue
+4607,57411,Late Delivery
+4608,57448,Wrong Item
+4609,57451,Damaged
+4610,57459,Late Delivery
+4611,57476,Quality Issue
+4612,57477,Quality Issue
+4613,57479,Quality Issue
+4614,57483,Quality Issue
+4615,57486,Damaged
+4616,57507,Late Delivery
+4617,57523,Damaged
+4618,57526,Wrong Item
+4619,57548,Wrong Item
+4620,57554,Wrong Item
+4621,57558,Damaged
+4622,57574,Late Delivery
+4623,57576,Damaged
+4624,57580,Wrong Item
+4625,57591,Damaged
+4626,57616,Late Delivery
+4627,57622,Damaged
+4628,57661,Late Delivery
+4629,57706,Wrong Item
+4630,57724,Damaged
+4631,57741,Late Delivery
+4632,57760,Damaged
+4633,57773,Late Delivery
+4634,57784,Wrong Item
+4635,57786,Damaged
+4636,57789,Wrong Item
+4637,57796,Late Delivery
+4638,57798,Damaged
+4639,57852,Wrong Item
+4640,57861,Quality Issue
+4641,57868,Late Delivery
+4642,57880,Late Delivery
+4643,57892,Late Delivery
+4644,57893,Wrong Item
+4645,57916,Wrong Item
+4646,57917,Damaged
+4647,57947,Late Delivery
+4648,57953,Wrong Item
+4649,57957,Wrong Item
+4650,57960,Damaged
+4651,57979,Late Delivery
+4652,57981,Wrong Item
+4653,57995,Wrong Item
+4654,58000,Wrong Item
+4655,58023,Quality Issue
+4656,58036,Quality Issue
+4657,58046,Late Delivery
+4658,58052,Wrong Item
+4659,58053,Wrong Item
+4660,58075,Quality Issue
+4661,58080,Damaged
+4662,58081,Wrong Item
+4663,58084,Damaged
+4664,58111,Late Delivery
+4665,58118,Damaged
+4666,58120,Quality Issue
+4667,58163,Damaged
+4668,58171,Late Delivery
+4669,58175,Quality Issue
+4670,58177,Wrong Item
+4671,58190,Late Delivery
+4672,58191,Damaged
+4673,58212,Quality Issue
+4674,58220,Late Delivery
+4675,58229,Wrong Item
+4676,58249,Late Delivery
+4677,58251,Damaged
+4678,58258,Wrong Item
+4679,58263,Late Delivery
+4680,58276,Wrong Item
+4681,58283,Quality Issue
+4682,58292,Damaged
+4683,58309,Quality Issue
+4684,58310,Late Delivery
+4685,58311,Wrong Item
+4686,58318,Wrong Item
+4687,58357,Quality Issue
+4688,58365,Damaged
+4689,58381,Quality Issue
+4690,58382,Damaged
+4691,58385,Quality Issue
+4692,58386,Damaged
+4693,58398,Wrong Item
+4694,58410,Quality Issue
+4695,58424,Damaged
+4696,58440,Damaged
+4697,58443,Damaged
+4698,58448,Wrong Item
+4699,58454,Quality Issue
+4700,58468,Damaged
+4701,58482,Late Delivery
+4702,58490,Wrong Item
+4703,58491,Late Delivery
+4704,58495,Wrong Item
+4705,58516,Late Delivery
+4706,58552,Quality Issue
+4707,58610,Quality Issue
+4708,58611,Quality Issue
+4709,58616,Late Delivery
+4710,58631,Damaged
+4711,58638,Quality Issue
+4712,58675,Wrong Item
+4713,58691,Quality Issue
+4714,58695,Wrong Item
+4715,58707,Late Delivery
+4716,58728,Late Delivery
+4717,58757,Late Delivery
+4718,58760,Quality Issue
+4719,58763,Late Delivery
+4720,58772,Damaged
+4721,58817,Late Delivery
+4722,58823,Damaged
+4723,58839,Wrong Item
+4724,58852,Damaged
+4725,58859,Quality Issue
+4726,58867,Wrong Item
+4727,58891,Damaged
+4728,58906,Quality Issue
+4729,58907,Quality Issue
+4730,58918,Damaged
+4731,58922,Wrong Item
+4732,58946,Late Delivery
+4733,58990,Late Delivery
+4734,59001,Wrong Item
+4735,59042,Damaged
+4736,59044,Wrong Item
+4737,59070,Quality Issue
+4738,59081,Late Delivery
+4739,59099,Wrong Item
+4740,59100,Damaged
+4741,59117,Damaged
+4742,59119,Late Delivery
+4743,59124,Damaged
+4744,59133,Late Delivery
+4745,59140,Wrong Item
+4746,59147,Wrong Item
+4747,59194,Damaged
+4748,59196,Late Delivery
+4749,59198,Quality Issue
+4750,59209,Wrong Item
+4751,59231,Quality Issue
+4752,59238,Damaged
+4753,59259,Wrong Item
+4754,59264,Damaged
+4755,59286,Wrong Item
+4756,59293,Wrong Item
+4757,59307,Wrong Item
+4758,59314,Damaged
+4759,59315,Quality Issue
+4760,59340,Wrong Item
+4761,59346,Late Delivery
+4762,59355,Quality Issue
+4763,59359,Late Delivery
+4764,59414,Quality Issue
+4765,59419,Damaged
+4766,59420,Late Delivery
+4767,59430,Quality Issue
+4768,59449,Late Delivery
+4769,59452,Late Delivery
+4770,59456,Wrong Item
+4771,59472,Late Delivery
+4772,59475,Damaged
+4773,59503,Damaged
+4774,59524,Quality Issue
+4775,59551,Wrong Item
+4776,59552,Damaged
+4777,59560,Quality Issue
+4778,59606,Wrong Item
+4779,59627,Quality Issue
+4780,59631,Late Delivery
+4781,59680,Late Delivery
+4782,59685,Damaged
+4783,59696,Damaged
+4784,59708,Late Delivery
+4785,59710,Damaged
+4786,59714,Late Delivery
+4787,59727,Quality Issue
+4788,59750,Late Delivery
+4789,59756,Damaged
+4790,59782,Damaged
+4791,59832,Late Delivery
+4792,59841,Quality Issue
+4793,59867,Quality Issue
+4794,59874,Wrong Item
+4795,59901,Wrong Item
+4796,59947,Wrong Item
+4797,59956,Quality Issue
+4798,59963,Damaged
+4799,59989,Quality Issue
+4800,59993,Late Delivery
