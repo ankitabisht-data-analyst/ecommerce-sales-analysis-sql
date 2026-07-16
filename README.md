@@ -27,16 +27,16 @@ ecommerce-sales-analysis-sql/
 ├── Dataset/                                          # Raw CSV source files
 ├── results/                                          # Query output screenshots
 ├── 00_ecommerce_schema_diagram.png                   # ER diagram
-├── E_COMMERCE_sql_table_DB_index_load_queries.sql     # DB creation, CSV loading, indexing
-├── 01_Data_Cleaning.sql                               # NULL, duplicate, orphan-record checks
-├── 02_EDA.sql                                         # Exploratory Data Analysis
-├── 03_Basic_Analysis.sql                              # 10 foundational metric queries
-├── 04_Intermediate_Analysis.sql                       # 14 business-question queries
-├── 05_Advanced_Analysis.sql                           # 15 window-function/CTE queries
-├── 06_Index_Optimization.sql                          # Performance indexing
-├── 07_Views.sql                                       # 3 reusable reporting views
-├── 08_Stored_Procedures.sql                           # 3 callable stored procedures
-├── sql_extra_analysis.sql                             # Quick summary-metric queries
+├── E_COMMERCE_sql_table_DB_index_load_queries.sql    # DB creation, CSV loading, indexing
+├── 01_Data_Cleaning.sql                              # NULL, duplicate, orphan-record checks
+├── 02_EDA.sql                                        # Exploratory Data Analysis
+├── 03_Basic_Analysis.sql                             # 10 foundational metric queries
+├── 04_Intermediate_Analysis.sql                      # 14 business-question queries
+├── 05_Advanced_Analysis.sql                          # 15 window-function/CTE queries
+├── 06_Index_Optimization.sql                         # Performance indexing
+├── 07_Views.sql                                      # 3 reusable reporting views
+├── 08_Stored_Procedures.sql                          # 3 callable stored procedures
+├── sql_extra_analysis.sql                            # Quick summary-metric queries
 └── README.md
 ## 🛠️ Tech Stack & SQL Techniques Used
 
