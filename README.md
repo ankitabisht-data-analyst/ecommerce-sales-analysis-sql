@@ -1,5 +1,7 @@
 # 🛒 E-Commerce Sales Analysis — Advanced MySQL Project
 
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
 An end-to-end SQL analytics project built entirely in **MySQL** on a 7-table relational e-commerce database: `customers`, `products`, `orders`, `order_items`, `payments`, `returns`, and `inventory`. This project takes raw CSV data all the way through database design, data loading, data quality checks, exploratory analysis, layered business-question SQL, advanced window-function analytics, index-based performance tuning, and a reusable views-and-stored-procedures reporting layer — the same structure used in real production analytics work.
 
 ## 📌 Project Overview
@@ -133,6 +135,9 @@ Added indexes on `orders(customer_id)`, `orders(order_date)`, `order_items(order
 3. Run in order: `01_Data_Cleaning.sql` → `02_EDA.sql` → `03_Basic_Analysis.sql` → `04_Intermediate_Analysis.sql` → `05_Advanced_Analysis.sql` → `07_Views.sql` → `08_Stored_Procedures.sql`
 4. Check `/results` for output screenshots
 
+## 📬 Contact
+**Ankita Bisht** — Data Analyst
+[LinkedIn](https://www.linkedin.com/in/ankita-bisht09) 
 ## 📎 Related Projects
 
 Part of a broader SQL/analytics portfolio — see more at [github.com/ankitabisht-data-analyst](https://github.com/ankitabisht-data-analyst)
